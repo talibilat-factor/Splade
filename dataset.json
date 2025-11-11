@@ -1,0 +1,561 @@
+[
+  {
+    "question": "On what date was the Marketing Affiliate Agreement between Equidata and National Credit Report made effective?",
+    "answer_snippet": "This Agreement is made this 1st day of October 2008",
+    "context_chunk": "MARKETING AFFILIATE AGREEMENT This Agreement is made this 1st day of October 2008, (the “Effective Date”), by and between Equidata, Inc.… and National Credit Report.com, LLC",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Which state’s law governs the Equidata Marketing Affiliate Agreement?",
+    "answer_snippet": "This Agreement is governed by and construed in accordance with the laws of the State of Virginia.",
+    "context_chunk": "12. Miscellaneous… This Agreement is governed by and construed in accordance with the laws of the State of Virginia.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Where must disputes under Equidata’s billing disputes clause be arbitrated?",
+    "answer_snippet": "Such disputes shall be settled by arbitration in the City of Newport News, Virginia.",
+    "context_chunk": "2. Disputes… Such disputes shall be settled by arbitration in the City of Newport News, Virginia.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "How long before a price increase must Equidata notify the Marketing Affiliate?",
+    "answer_snippet": "Notice will be given… no less than 30 days prior to such increase taking affect.",
+    "context_chunk": "Equidata reserves the right to increase the base cost of Services. Notice will be given to Marketing Affiliate in writing no less than 30 days prior…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Who bears responsibility for collecting consumer payments under the Equidata agreement?",
+    "answer_snippet": "Marketing Affiliate shall be responsible for collecting all amounts due directly from the Consumer",
+    "context_chunk": "1. Compensation. Marketing Affiliate shall be responsible for collecting all amounts due directly from the Consumer and shall bear sole responsibility for non-payment…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "What late charge applies to past-due balances in the Equidata agreement?",
+    "answer_snippet": "a late charge of 1 1/2% per month",
+    "context_chunk": "…the undersigned principal… agrees to pay a late charge of 1 l/2% per month on the unpaid, past-due amount…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Name three statutes the parties agree to comply with under the Compliance clause.",
+    "answer_snippet": "the Fair Credit Reporting Act (FCRA), the Fair Debt Collection Practices Act (FDCPA) and the Health Insurance Portability and Accountability Act (HIPAA)",
+    "context_chunk": "5. Compliance. Marketing Affiliate nor Equidata, shall engage in any practice… not in compliance with the Fair Credit Reporting Act (FCRA), the Fair Debt Collection Practices Act (FDCPA) and the Health Insurance Portability and Accountability Act (HIPAA)…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "How far in advance must Marketing Materials requiring approval be reviewed?",
+    "answer_snippet": "Such approval… shall be completed within 48 hours of receipt",
+    "context_chunk": "5.4. Uses Marketing Materials, media or methods that are not approved… Such approval shall not be unreasonably withheld and shall be completed within 48 hours of receipt…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "For how long is the Equidata Marketing Affiliate Agreement’s initial term?",
+    "answer_snippet": "This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically",
+    "context_chunk": "7.1. This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically under these same terms…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "Can Equidata terminate immediately if CRAs decline to render services to the Marketing Affiliate?",
+    "answer_snippet": "Equidata reserves the right to terminate this Agreement immediately for cause if Experian, Equifax and/or TransUnion… decline to render Services",
+    "context_chunk": "7.4. Equidata reserves the right to terminate this Agreement immediately for cause if Experian, Equifax and/or TransUnion… decline to render Services…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "What does the Equidata agreement say about warranty disclaimers?",
+    "answer_snippet": "PROVIDED ON AN “AS IS” BASIS… DISCLAIMS ANY WARRANTY… INCLUDING… MERCHANTABILITY, FITNESS…",
+    "context_chunk": "11. Liability. MARKETING AFFILIATE ACKNOWLEDGES AND AGREES THAT ANY PRODUCT, SERVICE, LICENSE OR PERMISSION PROVIDED BY EQUIDATA… IS PROVIDED ON AN “AS IS” BASIS… DISCLAIMS ANY WARRANTY…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Who may audit the Marketing Affiliate’s marketing practices under the Equidata agreement?",
+    "answer_snippet": "Equidata may audit, at Equidata’s expense, the Marketing Affiliate’s marketing, practices and activities",
+    "context_chunk": "6. Audit. Equidata may audit, at Equidata’s expense, the Marketing Affiliate’s marketing, practices and activities… Equidata reserves the right to site inspect…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "How must notices be sent under the Equidata agreement?",
+    "answer_snippet": "must be sent by overnight delivery service… Notice is deemed effective on the day after delivery",
+    "context_chunk": "12. Miscellaneous… All notices required to be given in writing must be sent by overnight delivery service… Notice is deemed effective on the day after delivery…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "Name one prohibited marketing activity called out in the Equidata Compliance clause.",
+    "answer_snippet": "the transmission of “junk mail”, “spam” or the unsolicited mass distribution of e-mail",
+    "context_chunk": "5.1.… connected with the transmission of “junk mail”, “spam” or the unsolicited mass distribution of e-mail…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "What non-solicitation restriction applies to Marketing Affiliate with respect to Equidata’s customers?",
+    "answer_snippet": "shall not directly or indirectly solicit an existing business customer of Equidata",
+    "context_chunk": "4. Non-solicitation of Clients. Marketing Affiliate shall not directly or indirectly solicit an existing business customer of Equidata…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "What is the arbitration timeline after selection of arbitrators under Equidata’s dispute clause?",
+    "answer_snippet": "hearing… no later than 25 calendar days… award… no later than 10 calendar days after the conclusion",
+    "context_chunk": "If the parties do not agree… arbitrators… schedule… commence… no later than 25 calendar days… The arbitrator(s) shall issue an award… no later than 10 calendar days after the conclusion…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "What personal guaranty does the Equidata agreement impose?",
+    "answer_snippet": "this Agreement will serve as a personal guaranty by the undersigned principal, partner or owner",
+    "context_chunk": "…the undersigned principal, partner or owner further agree that this Agreement will serve as a personal guaranty…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "Does the Equidata agreement permit the use of Marketing Materials in telemarketing?",
+    "answer_snippet": "Marketing Materials may also be used… inbound and outbound telemarketing",
+    "context_chunk": "Permission… Marketing Materials may also be used… as well as inbound and outbound telemarketing.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "What is expressly defined as Confidential Information in the Equidata agreement?",
+    "answer_snippet": "Confidential Information, includes, but is not limited to, Customer names and lists.",
+    "context_chunk": "10. Proprietary Information… Confidential Information, includes, but is not limited to, Customer names and lists.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "What are the email contacts for notice in the Equidata signature block?",
+    "answer_snippet": "Email Address: Kchase@equidata.com… ivan.posniak@nationalcreditreport.com",
+    "context_chunk": "Company Name: Equidata, Inc.… Email Address: Kchase@equidata.com Email Address: ivan.posniak@nationalcreditreport.com",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:19]{index=19}"
+  },
+
+  {
+    "question": "What is the Initial Term of The TUBE–Tribune Charter Affiliate Affiliation Agreement?",
+    "answer_snippet": "The “Initial Term”… shall commence upon the Effective Date and shall expire on March 31, 2011.",
+    "context_chunk": "2. TERM, EXTENSION AND RENEWAL: (a) Initial Term… commence upon the Effective Date and shall expire on March 31, 2011.",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question": "How many promotional announcements per week must a Station air for the Service?",
+    "answer_snippet": "an average of at least ten (10) thirty (30)-second promotional announcements per week",
+    "context_chunk": "8.(a) Affiliate shall actively promote… including… at least ten (10) thirty (30)-second promotional announcements per week…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question": "What bandwidth must a Station provide for The TUBE’s Service?",
+    "answer_snippet": "up to 5.0 mbps, but… not less than 2.0 mbps",
+    "context_chunk": "5.(d)… Each Station will provide Network with up to 5.0 mbps, but, at all times, not less than 2.0 mbps…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question": "What is the Equipment Reimbursement Cap for initial Stations?",
+    "answer_snippet": "shall not exceed, in the aggregate, one hundred twenty-five thousand dollars ($125,000.00)",
+    "context_chunk": "5.(b)… Receiving Equipment… for all of the Stations initially listed on Exhibit A shall not exceed… $125,000.00 (the “Equipment Reimbursement Cap”).",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question": "Who has exclusive right to sell advertising on the Service (excluding local elements)?",
+    "answer_snippet": "Network shall have the exclusive right and authority to sell all of the advertising on the Service",
+    "context_chunk": "4.(e) Advertising. Except for the Local Advertising and advertising broadcast in Local Programming, Network shall have the exclusive right and authority to sell all of the advertising…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "question": "What share of Network’s Advertising Revenue is payable to Affiliate under Exhibit D?",
+    "answer_snippet": "multiplying fifteen percent (15%) of Network’s Advertising Revenue… by a fraction…",
+    "context_chunk": "Exhibit D – Revenue Share… “Affiliate Advertising Share”… fifteen percent (15%) of Network’s Advertising Revenue…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "question": "How much Local Advertising time per hour is provided to each Station?",
+    "answer_snippet": "one (1) minute of commercial announcement time per hour",
+    "context_chunk": "8.(c) Network shall provide to each Station… one (1) minute of commercial announcement time per hour (“Local Advertising”).",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "question": "What cure period applies to a material breach by Affiliate before Network may terminate?",
+    "answer_snippet": "thirty (30) days… to cure such breach",
+    "context_chunk": "10.(a)… Network may… terminate… if Affiliate is in material breach… provided that Affiliate shall have thirty (30) days… to cure such breach",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "question": "What insurance must Network maintain and at what limits?",
+    "answer_snippet": "Commercial General Liability… not less than $1,000,000 each occurrence and $2,000,000 in the aggregate… Errors and Omissions… $1,000,000",
+    "context_chunk": "9.(h) Network has procured… Commercial General Liability… $1,000,000 each occurrence and $2,000,000 aggregate… Errors and Omissions… $1,000,000…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "question": "Which state’s law governs the TUBE–Tribune agreement?",
+    "answer_snippet": "governed by the laws of the State of New York",
+    "context_chunk": "13.(c) Governing Law… shall be governed by the laws of the State of New York…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "question": "May Affiliate pre-empt Service programming it deems unsuitable or of lesser importance?",
+    "answer_snippet": "Affiliate shall retain the right to elect not to transmit any programming… if… unsatisfactory or unsuitable or contrary to the public interest",
+    "context_chunk": "4.(c) Preemption. Affiliate shall retain the right to elect not to transmit any programming… or to substitute… of greater local or national importance.",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "question": "What closed-captioning obligation applies to the Service?",
+    "answer_snippet": "Network shall provide full-time closed captioning… at all times for which captioning is required by applicable law",
+    "context_chunk": "4.(g) Closed Captioning… Network shall provide full-time closed captioning…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "question": "What DPI signalling standard must Network use for local ad insertion?",
+    "answer_snippet": "Network agrees to transmit SCTE 35-compliant DPI commands",
+    "context_chunk": "5.(e) Network agrees to transmit SCTE 35-compliant DPI commands…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "question": "Can Network discontinue the Service entirely, and with what notice?",
+    "answer_snippet": "retain the right… to discontinue… on at least ninety (90) days’ prior notice",
+    "context_chunk": "10.(b) Network retains the right… to discontinue its distribution of the Service… on at least ninety (90) days’ prior notice…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "question": "What is the limitation of liability clause between the parties?",
+    "answer_snippet": "NEITHER PARTY SHALL BE LIABLE… FOR INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES",
+    "context_chunk": "13.(j) LIMITATION OF LIABILITY. NOTWITHSTANDING ANY OTHER PROVISION… NEITHER PARTY SHALL BE LIABLE…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "question": "What rights are granted to Affiliate regarding use of Network’s marks?",
+    "answer_snippet": "a royalty-free, fully paid up, non-transferable, non-exclusive license to use the Marks",
+    "context_chunk": "3.(e) Network hereby grants Affiliate… a… non-exclusive license to use the Marks…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "question": "What are the delivery specs for the Service signal?",
+    "answer_snippet": "no more than a 5.0 mbps stream… resolution of no less than 480 x 720i",
+    "context_chunk": "5.(a)… shall be contained in no more than a 5.0 mbps stream… resolution… no less than 480 x 720i.",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "question": "How much local programming time per week may Affiliate insert?",
+    "answer_snippet": "thirty (30) minutes per week… anticipated… right to expand… to one (1) hour per week",
+    "context_chunk": "4.(b) Local Programming… thirty (30) minutes per week… anticipated… expand… to one (1) hour…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "question": "What reporting must Network provide quarterly to Affiliate?",
+    "answer_snippet": "a statement… reporting… Advertising Revenue… Affiliate Advertising Share… Transactional Revenue… households… Affiliate Transactional Share",
+    "context_chunk": "7.(b) Network shall submit to Affiliate… a statement… for such calendar quarter…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "question": "What law applies to taxes allocation between parties?",
+    "answer_snippet": "Network shall not be liable for… taxes… based upon revenues… of Affiliate… Neither Affiliate nor Station shall be liable… based upon revenues… of Network.",
+    "context_chunk": "13.(k) Taxes. Network shall not be liable for… any… taxes… based upon revenues derived by operations of Affiliate… Neither Affiliate nor Station shall be liable for… taxes… based upon revenues… of Network.",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:39]{index=39}"
+  },
+
+  {
+    "question": "What is the Effective Date for the Union Dental Business Affiliate Agreement?",
+    "answer_snippet": "dated January 28, 2005, effective as of October 15, 2004",
+    "context_chunk": "This Business Affiliate Agreement… dated January 28, 2005, effective as of October 15, 2004…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "question": "Define Confidential Information under the Union Dental agreement.",
+    "answer_snippet": "any and all information that a Party may reasonably expect to remain confidential… or that is protected by law",
+    "context_chunk": "1. Definitions. A Confidential Information@ shall mean any and all information that a Party may reasonably expect to remain confidential… or that information that is protected by law.",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "question": "Within how many days must a Party report unauthorised disclosures?",
+    "answer_snippet": "within five (5) days of… discovery of such unauthorized use and/or disclosure",
+    "context_chunk": "3.(b) Report to the other Party… within five (5) days of a Party’s discovery…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "question": "What safeguards obligation exists for Confidential Information?",
+    "answer_snippet": "Use appropriate safeguards to maintain the security of the Confidential Information",
+    "context_chunk": "3.(c) Use appropriate safeguards to maintain the security of the Confidential Information…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "question": "In how many days must a Party make relevant records available for verification?",
+    "answer_snippet": "within ten (10) days of a Party’s written request",
+    "context_chunk": "3.(e) Make available… within ten (10) days… for the purpose of enabling… verify… compliance…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:44]{index=44}"
+  },
+  {
+    "question": "By when must Confidential Information be returned or destroyed after termination?",
+    "answer_snippet": "within fifteen (15) days of the termination of this Agreement",
+    "context_chunk": "3.(g) Return to a Party or destroy… within fifteen (15) days of the termination…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "question": "What is the notice period to terminate the Union Dental agreement without cause?",
+    "answer_snippet": "either Party informs the other Party with thirty (30) day prior written notice",
+    "context_chunk": "5.(a) Term… shall continue… until either Party informs the other Party with thirty (30) day prior written notice…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "question": "Can UDC immediately terminate for a material breach?",
+    "answer_snippet": "UDC may immediately terminate this Agreement without notice… if it determines that the Business Affiliate has breached a material provision",
+    "context_chunk": "5.(b) Termination. UDC may immediately terminate this Agreement without notice… if… breached a material provision…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:47]{index=47}"
+  },
+  {
+    "question": "What indemnification obligation do the Parties have regarding improper disclosures?",
+    "answer_snippet": "agree to indemnify and hold harmless each other… which arise out of any use or disclosure of Confidential Information not specifically permitted",
+    "context_chunk": "6. Indemnification. The Parties hereby covenant and agree to indemnify and hold harmless each other… which arise out of any use or disclosure… not specifically permitted…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:48]{index=48}"
+  },
+  {
+    "question": "Which obligations expressly survive termination under the Union Dental agreement?",
+    "answer_snippet": "Sections 3(g)… 3(h)… and 6 shall survive the termination… indefinitely.",
+    "context_chunk": "7.(a) Survival. The respective rights and obligations… under… Sections 3(g)… 3(h)… and 6 shall survive…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:49]{index=49}"
+  },
+  {
+    "question": "How must notices be delivered under the Union Dental agreement?",
+    "answer_snippet": "in person or by means of certified or registered mail… or by telephone facsimile with a hard copy sent by mail on the next business day",
+    "context_chunk": "7.(d) Notices. All notices… will be delivered in person or by means of certified or registered mail… or by telephone facsimile…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:50]{index=50}"
+  },
+  {
+    "question": "What is the Parties’ relationship under the Union Dental agreement?",
+    "answer_snippet": "the Business Affiliate shall at all times act as an independent contractor… and not as an employee or agent",
+    "context_chunk": "7.(e) Relationship of the Parties… the Business Affiliate shall at all times act as an independent contractor…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:51]{index=51}"
+  },
+  {
+    "question": "Who signed the Union Dental agreement and in what capacity?",
+    "answer_snippet": "By: /s/ George D. Green… UNION DENTAL CORP… Name: George D. Green… Title: CEO and President",
+    "context_chunk": "IN WITNESS WHEREOF… Business Affiliate… By: /s/ George D. Green… UNION DENTAL CORP. By: /s/ George D. Green… Title: CEO and President",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:52]{index=52}"
+  },
+  {
+    "question": "What is required of workforce members regarding confidentiality obligations?",
+    "answer_snippet": "are under legal obligation to comply fully with all provisions of this Agreement",
+    "context_chunk": "4. Mutual Representation and Warranty. Each Party represents… members of its work force… are under legal obligation to comply fully…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:53]{index=53}"
+  },
+  {
+    "question": "What must each Party require of its subcontractors with access to Confidential Information?",
+    "answer_snippet": "agree in writing to adhere to the same restrictions and conditions",
+    "context_chunk": "3.(d) Require all of its employees, representatives, subcontractors or agents… to agree in writing to adhere to the same restrictions and conditions…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:54]{index=54}"
+  },
+  {
+    "question": "Within what time must information be provided to respond to an individual’s request for accounting?",
+    "answer_snippet": "Within fifteen (15) days of receiving a written request",
+    "context_chunk": "3.(f) Within fifteen (15) days of receiving a written request… provide… such information… for amendment and accounting…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:55]{index=55}"
+  },
+  {
+    "question": "What mitigation duty exists after a breach involving Confidential Information?",
+    "answer_snippet": "mitigate, to the extent practicable, any harmful effect",
+    "context_chunk": "3.(h) Parties agrees to mitigate, to the extent practicable, any harmful effect… of a use or disclosure… in violation…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:56]{index=56}"
+  },
+  {
+    "question": "How must a Party inform the other about changes in privacy notices?",
+    "answer_snippet": "inform a Party of any changes in the form of notice of privacy practices… and provide… a copy",
+    "context_chunk": "3.(i) To inform a Party of any changes in the form of notice of privacy practices… and provide the Party a copy…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:57]{index=57}"
+  },
+
+  {
+    "question": "What companies are parties to the Network 1 Affiliate Office Agreement and where are their principal places of business?",
+    "answer_snippet": "NETWORK 1 FINANCIAL, INC.… McLean, Virginia… and Payment Data Systems, Inc.… San Antonio, TX",
+    "context_chunk": "NETWORK 1 FINANCIAL, INC.… 1501 Farm Credit Drive, Suite 1500, McLean, Virginia… and Payment Data Systems, Inc.… 12500 San Pedro Suite 120 San Antonio, TX 78216.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:58]{index=58}"
+  },
+  {
+    "question": "What exclusivity applies to Contractors’ processing of merchant applications?",
+    "answer_snippet": "All such Contractors must process Merchant applications and transactions exclusively through Network 1.",
+    "context_chunk": "1.01 CONTRACTORS… All such Contractors must process Merchant applications and transactions exclusively through Network 1.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:59]{index=59}"
+  },
+  {
+    "question": "Who approves or declines Merchant Agreements submitted by the Affiliate?",
+    "answer_snippet": "Bank and Network 1 shall, in its sole discretion, make the final decision",
+    "context_chunk": "1.05 NETWORK 1 TO APPROVE ALL MERCHANTS AGREEMENTS… Bank and Network 1 shall, in its sole discretion, make the final decision…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:60]{index=60}"
+  },
+  {
+    "question": "What activities are expressly prohibited regarding factoring or laundering?",
+    "answer_snippet": "shall not engage in factoring or laundering or promote the same",
+    "context_chunk": "1.06 RESTRICTED MERCHANTS AND MERCHANT ACTIVITIES. Affiliate shall… not engage in factoring or laundering or promote the same.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:61]{index=61}"
+  },
+  {
+    "question": "What right of first refusal does Network 1 have regarding offers to acquire Affiliate revenue or company?",
+    "answer_snippet": "Network 1 shall have the exclusive right of first refusal… on the same terms and conditions as the Bona Fide Offer",
+    "context_chunk": "2.03 (A) RIGHT OF FIRST REFUSAL… Network 1 shall have the exclusive right of first refusal to purchase… on the same terms…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:62]{index=62}"
+  },
+  {
+    "question": "Under what conditions may the Affiliate transfer merchants away from NET1?",
+    "answer_snippet": "120 days written notice… not in breach… NET1 has waived its rights… 18 months have lapsed… pay the applicable Exit Fee",
+    "context_chunk": "2.03 (b) CLIENT shall have the right to withdraw (“Transfer”) Merchants… provided (i)… 120 days written notice… (iii) NW1 has waived its rights… (iv) 18 months… and (v) Affiliate pays the applicable Exit Fee…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:63]{index=63}"
+  },
+  {
+    "question": "How is the Exit Fee calculated and what is the maximum?",
+    "answer_snippet": "equal to eighteen (18) months net recurring revenue… to a maximum of $250,000",
+    "context_chunk": "2.03 (c) The Exit Fee… equal to eighteen (18) months net recurring revenue… to a maximum of $250,000.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:64]{index=64}"
+  },
+  {
+    "question": "When are Affiliate fees paid each month under the compensation clause?",
+    "answer_snippet": "Payments will be made on or before the 25th of each calendar month.",
+    "context_chunk": "3.02 PAYMENT… Payments will be made on or before the 25th of each calendar month.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:65]{index=65}"
+  },
+  {
+    "question": "What restrictions exist on the Affiliate’s use of the Network 1 name and marks?",
+    "answer_snippet": "use… on a non-exclusive basis… cease using… at the written request… insignia, logos… are the absolute and sole right of Network 1",
+    "context_chunk": "4.02 NETWORK 1 NAME USAGE… use… on a non-exclusive basis… cease using… insignia, logo’s, Service Marks, trademarks and name of Network 1 are the absolute and sole right…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:66]{index=66}"
+  },
+  {
+    "question": "What is the default initial Term of the Network 1 Affiliate Office Agreement?",
+    "answer_snippet": "one hundred eighty days (180)… unless… not approved… in which case, the Term will be 3 years",
+    "context_chunk": "5.01 TERM. The term… shall be for one hundred eighty days (180)… unless Network 1 or Visa or MasterCard or Harris Bank doesn’t approve… in which case, the Term will be 3 years.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:67]{index=67}"
+  },
+  {
+    "question": "List one cause for termination by Network 1 for cause.",
+    "answer_snippet": "fraud, intentional misrepresentation or negligence by Affiliate",
+    "context_chunk": "5.02 D. By Network 1, for cause… “cause” shall consist of (i) fraud, intentional misrepresentation or negligence by Affiliate…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:68]{index=68}"
+  },
+  {
+    "question": "What arbitration venue applies to disputes by Payment Data Systems vs by Network 1?",
+    "answer_snippet": "Payment Data Systems… arbitration in McLean, Virginia… NETWORK 1… arbitration in San Antonio, Texas",
+    "context_chunk": "8.05 GOVERNING LAW… Payment Data Systems… arbitration in McLean, Virginia… All disputes or claims by NETWORK 1… in San Antonio, Texas…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:69]{index=69}"
+  },
+  {
+    "question": "What independent-contractor statement is included regarding work conduct?",
+    "answer_snippet": "You decide when and where, as well as the manner and means by which you conduct your work activities.",
+    "context_chunk": "6.02 MANNER & MEANS OF WORK CONDUCT. You decide when and where, as well as the manner and means by which you conduct your work activities.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:70]{index=70}"
+  },
+  {
+    "question": "Who bears taxes and business expenses for the Affiliate?",
+    "answer_snippet": "You shall be responsible for and pay all expenses and fees incurred by you… and shall pay all taxes, duties, assessments and governmental charges",
+    "context_chunk": "6.03 BUSINESS RESPONSIBILITY. You shall be responsible for and pay all expenses… and shall pay all taxes… related to carrying out your obligations…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:71]{index=71}"
+  },
+  {
+    "question": "What indemnity does Affiliate give to Network 1 and card schemes?",
+    "answer_snippet": "Affiliate hereby agrees to indemnify and hold harmless Network 1, VISA, MasterCard and the Member Bank",
+    "context_chunk": "7.01 AFFILIATE. Affiliate hereby agrees to indemnify and hold harmless Network 1, VISA, MasterCard and the Member Bank…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:72]{index=72}"
+  },
+  {
+    "question": "What is the notice method permitted for communications under the Network 1 agreement?",
+    "answer_snippet": "in writing and delivered in person, by e-mail, facsimile, Federal Express, UPS, or by certified or registered mail",
+    "context_chunk": "8.01 NOTICES. All notices required hereunder shall be in writing and delivered in person, by e-mail, facsimile, Federal Express, UPS, or by certified or registered mail…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:73]{index=73}"
+  },
+
+  {
+    "question": "What services does Equidata provide under the definition of Services?",
+    "answer_snippet": "personal credit, fraud detection, credit scoring services and credit monitoring for consumers",
+    "context_chunk": "1. Equidata provides certain personal credit, fraud detection, credit scoring services and credit monitoring for consumers, the (“Services”).",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:74]{index=74}"
+  },
+  {
+    "question": "Is Marketing Affiliate allowed to market competing products on pages with Equidata links?",
+    "answer_snippet": "shall not market similar products from competing companies on any Web Site Landing Page containing the Equidata or Marketing Affiliate Web link",
+    "context_chunk": "4. Non-solicitation of Clients… Further, Marketing Affiliate shall not market similar products from competing companies on any Web Site Landing Page containing the Equidata or Marketing Affiliate Web link…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:75]{index=75}"
+  },
+  {
+    "question": "What happens to URL-related data on termination of the Equidata agreement?",
+    "answer_snippet": "Marketing Affiliate shall immediately remove all URL related data… Equidata reserves the right to use all available legal resources to force the removal",
+    "context_chunk": "7.3. At time of Agreement termination, Marketing Affiliate shall immediately remove all URL related data… Equidata reserves the right to use all available legal resources to force the removal…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:76]{index=76}"
+  },
+  {
+    "question": "What is explicitly excluded from Equidata’s liability?",
+    "answer_snippet": "ANY INDIRECT, EXEMPLARY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES… LOST PROFITS… LOST DATA",
+    "context_chunk": "11. Liability… IN NO EVENT WILL EQUIDATA BE LIABLE FOR ANY INDIRECT, EXEMPLARY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:77]{index=77}"
+  },
+  {
+    "question": "What must Affiliate do regarding telemarketing scripts?",
+    "answer_snippet": "Uses… methods that are not approved, including… telemarketing scripts",
+    "context_chunk": "5.4. Uses Marketing Materials, media or methods that are not approved, including, but nor limited to telemarketing scripts.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:78]{index=78}"
+  },
+
+  {
+    "question": "What DMA-based exclusivity is granted to Affiliate to broadcast The TUBE?",
+    "answer_snippet": "grants to Affiliate the exclusive right via Broadcast Television… for receipt by TV Households in the DMA",
+    "context_chunk": "3.(a) Network hereby grants to Affiliate the exclusive right via Broadcast Television… for receipt by TV Households in the DMA…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:79]{index=79}"
+  },
+  {
+    "question": "What children’s programming compliance is required?",
+    "answer_snippet": "minimum number of hours of “Core Programming”… comply with… 47 C.F.R. §73.670… prohibitions on host-selling",
+    "context_chunk": "4.(d) Children’s Programming… provide… Core Children’s Programming… comply with… 47 C.F.R. §73.670…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:80]{index=80}"
+  },
+  {
+    "question": "What must Network provide regarding program service information?",
+    "answer_snippet": "provide to a reputable program information services entity a program schedule for the Service",
+    "context_chunk": "4.(f) Program Service Information. Network must provide… a program schedule…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:81]{index=81}"
+  },
+  {
+    "question": "What constitutes the Affiliate Transactional Share?",
+    "answer_snippet": "fifteen percent (15%) of Network’s Transactional Revenue",
+    "context_chunk": "Exhibit D… II. Affiliate Transactional Share… means fifteen percent (15%) of Network’s Transactional Revenue…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:82]{index=82}"
+  },
+  {
+    "question": "What happens if Network changes satellite or encryption and equipment becomes unsuitable?",
+    "answer_snippet": "Network agrees to furnish and install… Receiving Equipment suitable… without regard to the Equipment Reimbursement Cap",
+    "context_chunk": "5.(b)… If Network changes the satellite, transponder or encryption method… Network agrees to furnish and install… receiving equipment… without regard to the Equipment Reimbursement Cap…",
+    "source document": "TubeMediaCorp_20060310_8-K_EX-10.1_Affiliate Agreement.pdf :contentReference[oaicite:83]{index=83}"
+  },
+
+  {
+    "question": "What must Parties do with Confidential Information held by subcontractors after Union Dental termination?",
+    "answer_snippet": "This provision shall apply to Confidential Information that is in the possession of subcontractors or agents",
+    "context_chunk": "5.(c) Effect of Termination… This provision shall apply to Confidential Information that is in the possession of subcontractors or agents…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:84]{index=84}"
+  },
+  {
+    "question": "When are notices deemed given if mailed under the Union Dental agreement?",
+    "answer_snippet": "on the third business day after deposit with the U.S. Postal Service",
+    "context_chunk": "7.(d) Notices… All such notices will be deemed given… on the third business day after deposit with the U.S. Postal Service…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:85]{index=85}"
+  },
+  {
+    "question": "What right do both Parties have if the IRS challenges independent-contractor status?",
+    "answer_snippet": "both… shall have the right to participate in any discussions or negotiations",
+    "context_chunk": "7.(e)… In the event the Internal Revenue Service… should question… independent contractor status… both… shall have the right to participate…",
+    "source document": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_Affiliate Agreement.pdf :contentReference[oaicite:86]{index=86}"
+  },
+
+  {
+    "question": "What must Local Offices display regarding Network 1 branding?",
+    "answer_snippet": "bear signs, emblems and other insignia… indicating that the office is in fact an office of Network 1",
+    "context_chunk": "1.02 LOCAL OFFICE… All Local Offices shall bear signs, emblems and other insignia… indicating that the office is in fact an office of Network 1…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:87]{index=87}"
+  },
+  {
+    "question": "Who pays equipment costs sold to merchants and at what pricing basis?",
+    "answer_snippet": "Network 1 agrees to sell such Equipment and Software to Affiliate at prices pursuant to a price list established by Network 1",
+    "context_chunk": "1.04 PURCHASE AND LEASE OF EQUIPMENT… Network 1 agrees to sell… at prices pursuant to a price list established by Network 1… Affiliate… guarantees the payments…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:88]{index=88}"
+  },
+  {
+    "question": "What happens to Affiliate fees upon termination for cause by Network 1?",
+    "answer_snippet": "all rights of the Affiliate to future payments… shall immediately terminate",
+    "context_chunk": "5.02 F… If this Agreement is terminated for cause, all rights of the Affiliate to future payments… shall immediately terminate…",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:89]{index=89}"
+  },
+  {
+    "question": "Are Affiliate rights to locate Contractors exclusive?",
+    "answer_snippet": "shall not be exclusive",
+    "context_chunk": "8.02 NON-EXCLUSIVITY. Affiliate’s rights to locate Contractors hereunder shall not be exclusive.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:90]{index=90}"
+  },
+  {
+    "question": "Who bears losses arising from Affiliate or its Contractors’ acts or omissions?",
+    "answer_snippet": "All losses or charges arising from acts or omissions of the Affiliate, Contractors… shall be borne as set out in Exhibit C",
+    "context_chunk": "3.03 LOSSES. All losses or charges arising from acts or omissions of the Affiliate, Contractors… shall be borne as set out in Exhibit C.",
+    "source document": "UsioInc_20040428_SB-2_EX-10.11_Affiliate Office Agreement.pdf :contentReference[oaicite:91]{index=91}"
+  }
+]

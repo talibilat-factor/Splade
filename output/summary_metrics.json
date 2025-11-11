@@ -1,0 +1,88 @@
+{
+  "metrics": {
+    "bm25": {
+      "num_questions": 92,
+      "accuracy": 0.358695652173913,
+      "mrr": 0.30235507246376814,
+      "rank_counts": {
+        "2": 3,
+        "None": 59,
+        "1": 25,
+        "3": 2,
+        "4": 1,
+        "5": 2
+      },
+      "fuzzy_threshold": 70,
+      "build_time_sec": 0.03058314323425293,
+      "method": "BM25"
+    },
+    "hnsw": {
+      "num_questions": 92,
+      "accuracy": 0.2608695652173913,
+      "mrr": 0.20597826086956522,
+      "rank_counts": {
+        "None": 68,
+        "2": 3,
+        "1": 16,
+        "3": 3,
+        "5": 1,
+        "4": 1
+      },
+      "fuzzy_threshold": 70,
+      "method": "Semantic-HNSW",
+      "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+      "model_load_time_sec": 1.3583178520202637,
+      "corpus_encode_time_sec": 14.962617874145508,
+      "question_encode_time_sec": 0.28841280937194824,
+      "search_time_sec": 0.0035364627838134766,
+      "index_params": {
+        "M": 32,
+        "efConstruction": 200,
+        "efSearch": 128
+      }
+    },
+    "splade": {
+      "num_questions": 92,
+      "accuracy": 0.25,
+      "mrr": 0.20144927536231885,
+      "rank_counts": {
+        "None": 69,
+        "1": 15,
+        "2": 6,
+        "3": 1,
+        "5": 1
+      },
+      "fuzzy_threshold": 70,
+      "method": "SPLADE",
+      "model_name": "naver/efficient-splade-VI-BT-large-doc",
+      "model_load_time_sec": 0.5189723968505859,
+      "corpus_encode_time_sec": 92.78623270988464,
+      "question_encode_time_sec": 1.9373009204864502,
+      "search_time_sec": 0.21695804595947266,
+      "device": "cpu"
+    },
+    "hybrid": {
+      "num_questions": 92,
+      "accuracy": 0.34782608695652173,
+      "mrr": 0.2898550724637681,
+      "rank_counts": {
+        "2": 5,
+        "None": 60,
+        "1": 23,
+        "3": 2,
+        "4": 2
+      },
+      "fuzzy_threshold": 70,
+      "method": "Hybrid(BM25+HNSW)",
+      "bm25_weight": 0.55,
+      "dense_weight": 0.44999999999999996,
+      "bm25_candidates": 25,
+      "hnsw_candidates": 50,
+      "top_k": 5,
+      "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+      "model_load_time_sec": 1.2525413036346436
+    }
+  },
+  "errors": {},
+  "output_dir": "output"
+}

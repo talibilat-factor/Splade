@@ -1,0 +1,122 @@
+[
+  {
+    "question": "On what date was the Marketing Affiliate Agreement between Equidata and National Credit Report made effective?",
+    "answer_snippet": "This Agreement is made this 1st day of October 2008",
+    "context_chunk": "MARKETING AFFILIATE AGREEMENT This Agreement is made this 1st day of October 2008, (the “Effective Date”), by and between Equidata, Inc.… and National Credit Report.com, LLC",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "Which state’s law governs the Equidata Marketing Affiliate Agreement?",
+    "answer_snippet": "This Agreement is governed by and construed in accordance with the laws of the State of Virginia.",
+    "context_chunk": "12. Miscellaneous… This Agreement is governed by and construed in accordance with the laws of the State of Virginia.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Where must disputes under Equidata’s billing disputes clause be arbitrated?",
+    "answer_snippet": "Such disputes shall be settled by arbitration in the City of Newport News, Virginia.",
+    "context_chunk": "2. Disputes… Such disputes shall be settled by arbitration in the City of Newport News, Virginia.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "How long before a price increase must Equidata notify the Marketing Affiliate?",
+    "answer_snippet": "Notice will be given… no less than 30 days prior to such increase taking affect.",
+    "context_chunk": "Equidata reserves the right to increase the base cost of Services. Notice will be given to Marketing Affiliate in writing no less than 30 days prior…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Who bears responsibility for collecting consumer payments under the Equidata agreement?",
+    "answer_snippet": "Marketing Affiliate shall be responsible for collecting all amounts due directly from the Consumer",
+    "context_chunk": "1. Compensation. Marketing Affiliate shall be responsible for collecting all amounts due directly from the Consumer and shall bear sole responsibility for non-payment…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "What late charge applies to past-due balances in the Equidata agreement?",
+    "answer_snippet": "a late charge of 1 1/2% per month",
+    "context_chunk": "…the undersigned principal… agrees to pay a late charge of 1 l/2% per month on the unpaid, past-due amount…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Name three statutes the parties agree to comply with under the Compliance clause.",
+    "answer_snippet": "the Fair Credit Reporting Act (FCRA), the Fair Debt Collection Practices Act (FDCPA) and the Health Insurance Portability and Accountability Act (HIPAA)",
+    "context_chunk": "5. Compliance. Marketing Affiliate nor Equidata, shall engage in any practice… not in compliance with the Fair Credit Reporting Act (FCRA), the Fair Debt Collection Practices Act (FDCPA) and the Health Insurance Portability and Accountability Act (HIPAA)…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "How far in advance must Marketing Materials requiring approval be reviewed?",
+    "answer_snippet": "Such approval… shall be completed within 48 hours of receipt",
+    "context_chunk": "5.4. Uses Marketing Materials, media or methods that are not approved… Such approval shall not be unreasonably withheld and shall be completed within 48 hours of receipt…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "For how long is the Equidata Marketing Affiliate Agreement’s initial term?",
+    "answer_snippet": "This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically",
+    "context_chunk": "7.1. This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically under these same terms…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "Can Equidata terminate immediately if CRAs decline to render services to the Marketing Affiliate?",
+    "answer_snippet": "Equidata reserves the right to terminate this Agreement immediately for cause if Experian, Equifax and/or TransUnion… decline to render Services",
+    "context_chunk": "7.4. Equidata reserves the right to terminate this Agreement immediately for cause if Experian, Equifax and/or TransUnion… decline to render Services…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "What does the Equidata agreement say about warranty disclaimers?",
+    "answer_snippet": "PROVIDED ON AN “AS IS” BASIS… DISCLAIMS ANY WARRANTY… INCLUDING… MERCHANTABILITY, FITNESS…",
+    "context_chunk": "11. Liability. MARKETING AFFILIATE ACKNOWLEDGES AND AGREES THAT ANY PRODUCT, SERVICE, LICENSE OR PERMISSION PROVIDED BY EQUIDATA… IS PROVIDED ON AN “AS IS” BASIS… DISCLAIMS ANY WARRANTY…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Who may audit the Marketing Affiliate’s marketing practices under the Equidata agreement?",
+    "answer_snippet": "Equidata may audit, at Equidata’s expense, the Marketing Affiliate’s marketing, practices and activities",
+    "context_chunk": "6. Audit. Equidata may audit, at Equidata’s expense, the Marketing Affiliate’s marketing, practices and activities… Equidata reserves the right to site inspect…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "How must notices be sent under the Equidata agreement?",
+    "answer_snippet": "must be sent by overnight delivery service… Notice is deemed effective on the day after delivery",
+    "context_chunk": "12. Miscellaneous… All notices required to be given in writing must be sent by overnight delivery service… Notice is deemed effective on the day after delivery…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "Name one prohibited marketing activity called out in the Equidata Compliance clause.",
+    "answer_snippet": "the transmission of “junk mail”, “spam” or the unsolicited mass distribution of e-mail",
+    "context_chunk": "5.1.… connected with the transmission of “junk mail”, “spam” or the unsolicited mass distribution of e-mail…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "What non-solicitation restriction applies to Marketing Affiliate with respect to Equidata’s customers?",
+    "answer_snippet": "shall not directly or indirectly solicit an existing business customer of Equidata",
+    "context_chunk": "4. Non-solicitation of Clients. Marketing Affiliate shall not directly or indirectly solicit an existing business customer of Equidata…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "What is the arbitration timeline after selection of arbitrators under Equidata’s dispute clause?",
+    "answer_snippet": "hearing… no later than 25 calendar days… award… no later than 10 calendar days after the conclusion",
+    "context_chunk": "If the parties do not agree… arbitrators… schedule… commence… no later than 25 calendar days… The arbitrator(s) shall issue an award… no later than 10 calendar days after the conclusion…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "What personal guaranty does the Equidata agreement impose?",
+    "answer_snippet": "this Agreement will serve as a personal guaranty by the undersigned principal, partner or owner",
+    "context_chunk": "…the undersigned principal, partner or owner further agree that this Agreement will serve as a personal guaranty…",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "Does the Equidata agreement permit the use of Marketing Materials in telemarketing?",
+    "answer_snippet": "Marketing Materials may also be used… inbound and outbound telemarketing",
+    "context_chunk": "Permission… Marketing Materials may also be used… as well as inbound and outbound telemarketing.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "What is expressly defined as Confidential Information in the Equidata agreement?",
+    "answer_snippet": "Confidential Information, includes, but is not limited to, Customer names and lists.",
+    "context_chunk": "10. Proprietary Information… Confidential Information, includes, but is not limited to, Customer names and lists.",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "What are the email contacts for notice in the Equidata signature block?",
+    "answer_snippet": "Email Address: Kchase@equidata.com… ivan.posniak@nationalcreditreport.com",
+    "context_chunk": "Company Name: Equidata, Inc.… Email Address: Kchase@equidata.com Email Address: ivan.posniak@nationalcreditreport.com",
+    "source document": "SteelVaultCorp_20081224_10-K_EX-10.16_Affiliate Agreement.pdf :contentReference[oaicite:19]{index=19}"
+  }
+]

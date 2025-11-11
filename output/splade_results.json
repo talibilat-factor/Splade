@@ -1,0 +1,2050 @@
+{
+  "method": "SPLADE",
+  "generated_at": "2025-11-11 12:44:46",
+  "metrics": {
+    "num_questions": 92,
+    "accuracy": 0.25,
+    "mrr": 0.20144927536231885,
+    "rank_counts": {
+      "None": 69,
+      "1": 15,
+      "2": 6,
+      "3": 1,
+      "5": 1
+    },
+    "fuzzy_threshold": 70,
+    "method": "SPLADE",
+    "model_name": "naver/efficient-splade-VI-BT-large-doc",
+    "model_load_time_sec": 0.5189723968505859,
+    "corpus_encode_time_sec": 92.78623270988464,
+    "question_encode_time_sec": 1.9373009204864502,
+    "search_time_sec": 0.21695804595947266,
+    "device": "cpu"
+  },
+  "per_question": [
+    {
+      "question": "On what date was the Marketing Affiliate Agreement between Equidata and National Credit Report made effective?",
+      "context_chunk": "MARKETING AFFILIATE AGREEMENT This Agreement is made this 1st day of October 2008, (the \u201cEffective Date\u201d), by and between Equidata, Inc.\u2026 and National Credit Report.com, LLC",
+      "top_chunks": [
+        "2.\u00a0Marketing Affiliate and Equidata wish to enter into an agreement under which Marketing  Affiliate may market the Services.",
+        "Marketing Affiliate and Equidata shall be  obligated by the terms agreed upon by arbitration and all monies determined",
+        "(Credit Reporting Agencies \u2014 CRAs) decline to render  Services to Marketing Affiliate for any reason or if Equidata is",
+        "8.2.\u00a0The information regarding Marketing Affiliate set forth in this Agreement, and the  information  provided to Equidata",
+        "Reporting Agencies (CRA \u2019s). Said amounts charged to Equidata will be billed  separately to Marketing Affiliate and are"
+      ],
+      "top_scores": [
+        26.2691650390625,
+        24.624656677246094,
+        22.740562438964844,
+        21.64873695373535,
+        20.94445037841797
+      ],
+      "best_chunk": "2.\u00a0Marketing Affiliate and Equidata wish to enter into an agreement under which Marketing  Affiliate may market the Services.",
+      "best_score": 26.2691650390625,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Which state\u2019s law governs the Equidata Marketing Affiliate Agreement?",
+      "context_chunk": "12. Miscellaneous\u2026 This Agreement is governed by and construed in accordance with the laws of the State of Virginia.",
+      "top_chunks": [
+        "(c)\u00a0Governing\u00a0 Law.\u00a0The\u00a0obligations\u00a0of\u00a0Affiliate\u00a0and\u00a0Network\u00a0under\u00a0this\u00a0Agreement\u00a0are\u00a0subject\u00a0to\u00a0all\u00a0 applicable\u00a0federal,\u00a0state\u00a0and",
+        "Marketing Affiliate and Equidata shall be  obligated by the terms agreed upon by arbitration and all monies determined",
+        "2.\u00a0Marketing Affiliate and Equidata wish to enter into an agreement under which Marketing  Affiliate may market the Services.",
+        "5.\u00a0Compliance. Marketing Affiliate nor Equidata, shall engage in any practice or activity that  is not in compliance with the Fair",
+        "8.2.\u00a0The information regarding Marketing Affiliate set forth in this Agreement, and the  information  provided to Equidata"
+      ],
+      "top_scores": [
+        30.574642181396484,
+        27.923049926757812,
+        25.059471130371094,
+        21.56962013244629,
+        21.563745498657227
+      ],
+      "best_chunk": "(c)\u00a0Governing\u00a0 Law.\u00a0The\u00a0obligations\u00a0of\u00a0Affiliate\u00a0and\u00a0Network\u00a0under\u00a0this\u00a0Agreement\u00a0are\u00a0subject\u00a0to\u00a0all\u00a0 applicable\u00a0federal,\u00a0state\u00a0and",
+      "best_score": 30.574642181396484,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Where must disputes under Equidata\u2019s billing disputes clause be arbitrated?",
+      "context_chunk": "2. Disputes\u2026 Such disputes shall be settled by arbitration in the City of Newport News, Virginia.",
+      "top_chunks": [
+        "2.\u00a0Disputes.  In the case of disputed charge, defined as a non -payment of an invoice for which  notice of dispute has been",
+        "Affiliate can not resolve the dispute on their own within 10  days after Equidata receive said dispute, the parties shall",
+        "Marketing Affiliate shall give Equidata written demand of dispute within 10 days of the due date of  the invoice. The",
+        "obligation to promptly pay for undisputed charges in accordance with the terms of  this Agreement. Such disputes shall",
+        "8.06     ARBITRATION.  All  disputes  or  claims  hereunder shall be resolved by"
+      ],
+      "top_scores": [
+        32.10333251953125,
+        25.30659294128418,
+        22.882469177246094,
+        22.358556747436523,
+        20.967418670654297
+      ],
+      "best_chunk": "2.\u00a0Disputes.  In the case of disputed charge, defined as a non -payment of an invoice for which  notice of dispute has been",
+      "best_score": 32.10333251953125,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How long before a price increase must Equidata notify the Marketing Affiliate?",
+      "context_chunk": "Equidata reserves the right to increase the base cost of Services. Notice will be given to Marketing Affiliate in writing no less than 30 days prior\u2026",
+      "top_chunks": [
+        "Equidata reserves the right to increase the base cost of Services. Notice will be given to  Marketing Affiliate in writing",
+        "Marketing Affiliate shall give Equidata written demand of dispute within 10 days of the due date of  the invoice. The",
+        "use.\u00a0Chase\u00a0will\u00a0notify\u00a0Affiliate\u00a0of\u00a0its\u00a0approval\u00a0or\u00a0disapproval\u00a0of\u00a0such\u00a0materials\u00a0within\u00a0five\u00a0(5)\u00a0business\u00a0days\u00a0of\u00a0its\u00a0receipt\u00a0of\u00a0all\u00a0information\u00a0required",
+        "no less than 30 days prior to such increase taking affect. A  development fee, yet To Be Determined and outlined in",
+        "no later than 25 calendar days after Equidata receives  receipt of dispute from Marketing Affiliate and shall continue from day"
+      ],
+      "top_scores": [
+        26.26288414001465,
+        17.14131736755371,
+        16.193735122680664,
+        15.574228286743164,
+        15.308897018432617
+      ],
+      "best_chunk": "Equidata reserves the right to increase the base cost of Services. Notice will be given to  Marketing Affiliate in writing",
+      "best_score": 26.26288414001465,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "Who bears responsibility for collecting consumer payments under the Equidata agreement?",
+      "context_chunk": "1. Compensation. Marketing Affiliate shall be responsible for collecting all amounts due directly from the Consumer and shall bear sole responsibility for non-payment\u2026",
+      "top_chunks": [
+        "shall bear sole responsibility for non -payment of any fees  charged to the Consumer. Marketing Affiliate shall pay to",
+        "1.\u00a0Compensation.  Marketing Affiliate shall be responsible for collecting all amounts due  directly from the Consumer and",
+        "obligation to promptly pay for undisputed charges in accordance with the terms of  this Agreement. Such disputes shall",
+        "6.03     BUSINESS  RESPONSIBILITY.  You  shall  be  responsible  for and pay all",
+        "perform its obligations under this Agreement and has the power and authority to execute and deliver this Agreement."
+      ],
+      "top_scores": [
+        26.888315200805664,
+        24.10729217529297,
+        22.566198348999023,
+        20.71470832824707,
+        20.567956924438477
+      ],
+      "best_chunk": "shall bear sole responsibility for non -payment of any fees  charged to the Consumer. Marketing Affiliate shall pay to",
+      "best_score": 26.888315200805664,
+      "context_match": true,
+      "first_match_rank": 2
+    },
+    {
+      "question": "What late charge applies to past-due balances in the Equidata agreement?",
+      "context_chunk": "\u2026the undersigned principal\u2026 agrees to pay a late charge of 1 l/2% per month on the unpaid, past-due amount\u2026",
+      "top_chunks": [
+        "on any invoice. The Marketing Affiliate agrees to pay a late charge of 1 l/2% per month on the unpaid, past -due amount",
+        "utilization of time and charges. A LATE PAYMENT CHARGE of one and one-half",
+        "termination of this Agreement, each party shall pay to the other, within five (5) days after the effective date of such termination, any and all fees",
+        "owed) will not be considered a breach of this Agreement if such delay is caused by a labor dispute, shortage of materials, fire, earthquake, flood, or",
+        "Agreement and fees earned up to the date termination will remain payable"
+      ],
+      "top_scores": [
+        26.701902389526367,
+        17.618356704711914,
+        17.106586456298828,
+        16.031455993652344,
+        15.59919548034668
+      ],
+      "best_chunk": "on any invoice. The Marketing Affiliate agrees to pay a late charge of 1 l/2% per month on the unpaid, past -due amount",
+      "best_score": 26.701902389526367,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "Name three statutes the parties agree to comply with under the Compliance clause.",
+      "context_chunk": "5. Compliance. Marketing Affiliate nor Equidata, shall engage in any practice\u2026 not in compliance with the Fair Credit Reporting Act (FCRA), the Fair Debt Collection Practices Act (FDCPA) and the Health Insurance Portability and Accountability Act (HIPAA)\u2026",
+      "top_chunks": [
+        "Section 3.4  Content Standards . The Parties agree that (unless mutually agreed by the Parties with respect to clauses (i), (iii), (iv), (v) or",
+        "this  Agreement  and are  under  legal  obligation  to  comply  fully  with  all",
+        "Agreement,\u00a0insofar\u00a0as\u00a0they\u00a0purport\u00a0to\u00a0be\u00a0binding\u00a0 on\u00a0it,\u00a0constitute\u00a0legal,\u00a0valid\u00a0and\u00a0binding\u00a0obligations\u00a0enforceable\u00a0in\u00a0accordance\u00a0 with\u00a0their\u00a0terms.",
+        "(a) Governing Law . This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance",
+        "limitation, exercising its rights under this Agreement, in compliance with all applicable international, national, state, and local laws, rules, and"
+      ],
+      "top_scores": [
+        30.141176223754883,
+        26.260133743286133,
+        26.095300674438477,
+        25.30192756652832,
+        25.028976440429688
+      ],
+      "best_chunk": "Section 3.4  Content Standards . The Parties agree that (unless mutually agreed by the Parties with respect to clauses (i), (iii), (iv), (v) or",
+      "best_score": 30.141176223754883,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How far in advance must Marketing Materials requiring approval be reviewed?",
+      "context_chunk": "5.4. Uses Marketing Materials, media or methods that are not approved\u2026 Such approval shall not be unreasonably withheld and shall be completed within 48 hours of receipt\u2026",
+      "top_chunks": [
+        "commercially reasonable efforts to approve or reject any such Marketing Materials or other material submitted to it for review within thirty (30)",
+        "Such approval shall not be unreasonably withheld and shall  be completed within 48 hours of receipt of Marketing",
+        "for review within thirty (30) days from the date of receipt by Network Affiliate.  NCM shall not use, publish, or distribute any Marketing Material or",
+        "advertising material or otherwise, NCM shall submit a sample of such Marketing Material or other material to Network Affiliate for approval.",
+        "otherwise, Network Affiliate shall submit a sample of such Marketing Materials or other material to NCM for approval.  NCM shall exercise"
+      ],
+      "top_scores": [
+        24.350749969482422,
+        19.433496475219727,
+        19.389484405517578,
+        19.35041046142578,
+        18.13297462463379
+      ],
+      "best_chunk": "commercially reasonable efforts to approve or reject any such Marketing Materials or other material submitted to it for review within thirty (30)",
+      "best_score": 24.350749969482422,
+      "context_match": true,
+      "first_match_rank": 2
+    },
+    {
+      "question": "For how long is the Equidata Marketing Affiliate Agreement\u2019s initial term?",
+      "context_chunk": "7.1. This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically under these same terms\u2026",
+      "top_chunks": [
+        "2.\u00a0Marketing Affiliate and Equidata wish to enter into an agreement under which Marketing  Affiliate may market the Services.",
+        "Marketing Affiliate and Equidata shall be  obligated by the terms agreed upon by arbitration and all monies determined",
+        "8.2.\u00a0The information regarding Marketing Affiliate set forth in this Agreement, and the  information  provided to Equidata",
+        "Marketing Affiliate shall give Equidata written demand of dispute within 10 days of the due date of  the invoice. The",
+        "purpose of assuring compliance with  this Agreement. Equidata  reserves the right to site inspect Marketing Affiliate \u2019s"
+      ],
+      "top_scores": [
+        20.5368709564209,
+        18.933637619018555,
+        18.046165466308594,
+        16.33278465270996,
+        16.305830001831055
+      ],
+      "best_chunk": "2.\u00a0Marketing Affiliate and Equidata wish to enter into an agreement under which Marketing  Affiliate may market the Services.",
+      "best_score": 20.5368709564209,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Can Equidata terminate immediately if CRAs decline to render services to the Marketing Affiliate?",
+      "context_chunk": "7.4. Equidata reserves the right to terminate this Agreement immediately for cause if Experian, Equifax and/or TransUnion\u2026 decline to render Services\u2026",
+      "top_chunks": [
+        "to Marketing Affiliate. Upon termination for any reason, Equidata reserves the right to deactivate Marketing  Affiliate\u2019s",
+        "7.4.\u00a0Equidata reserves the right to terminate this Agreement immediately for cause if  Experian, Equifax and/or TransUnion",
+        "7.3.\u00a0At time of Agreement termination, Marketing Affiliate shall immediately remove all  URL related data pertaining to said",
+        "notice\u00a0of\u00a0termination.\u00a0At\u00a0the\u00a0time\u00a0of\u00a0termination,\u00a0any\u00a0links\u00a0to\u00a0Chase\u2019s\u00a0Website\u00a0must\u00a0be\u00a0removed\u00a0immediately.\u00a0Affiliate\u00a0will\u00a0continue\u00a0to\u00a0receive",
+        "terminate\u00a0this\u00a0Agreement\u00a0if\u00a0Affiliate\u00a0does\u00a0not\u00a0comply\u00a0with\u00a0the\u00a0terms\u00a0and\u00a0conditions\u00a0herein."
+      ],
+      "top_scores": [
+        50.81183624267578,
+        43.53302764892578,
+        43.12533950805664,
+        42.852169036865234,
+        42.77737808227539
+      ],
+      "best_chunk": "to Marketing Affiliate. Upon termination for any reason, Equidata reserves the right to deactivate Marketing  Affiliate\u2019s",
+      "best_score": 50.81183624267578,
+      "context_match": true,
+      "first_match_rank": 2
+    },
+    {
+      "question": "What does the Equidata agreement say about warranty disclaimers?",
+      "context_chunk": "11. Liability. MARKETING AFFILIATE ACKNOWLEDGES AND AGREES THAT ANY PRODUCT, SERVICE, LICENSE OR PERMISSION PROVIDED BY EQUIDATA\u2026 IS PROVIDED ON AN \u201cAS IS\u201d BASIS\u2026 DISCLAIMS ANY WARRANTY\u2026",
+      "top_chunks": [
+        "8.4.\u00a0Equidata warrants that it is an authorized provider of the Services as outlined in  this Agreement and that it has the",
+        "7.4.\u00a0Equidata reserves the right to terminate this Agreement immediately for cause if  Experian, Equifax and/or TransUnion",
+        "Agreement; and if data is not voluntarily removed,  Equidata reserves the right to use all available legal resources to",
+        "Affiliate\u2019s default in payment or other breach of this  Agreement, Equidata may terminate this Agreement without notice",
+        "This Agreement is made this 1 st day of October 2008, (the \u201cEffective Date \u201d), by and between  Equidata, Inc., a corporation"
+      ],
+      "top_scores": [
+        13.375197410583496,
+        12.148018836975098,
+        11.506275177001953,
+        10.982287406921387,
+        10.925393104553223
+      ],
+      "best_chunk": "8.4.\u00a0Equidata warrants that it is an authorized provider of the Services as outlined in  this Agreement and that it has the",
+      "best_score": 13.375197410583496,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Who may audit the Marketing Affiliate\u2019s marketing practices under the Equidata agreement?",
+      "context_chunk": "6. Audit. Equidata may audit, at Equidata\u2019s expense, the Marketing Affiliate\u2019s marketing, practices and activities\u2026 Equidata reserves the right to site inspect\u2026",
+      "top_chunks": [
+        "6.\u00a0Audit. Equidata may audit, at Equidata \u2019s expense, the Marketing Affiliate \u2019s marketing,  practices and activities for the",
+        "2.\u00a0Marketing Affiliate and Equidata wish to enter into an agreement under which Marketing  Affiliate may market the Services.",
+        "Marketing Affiliate and Equidata shall be  obligated by the terms agreed upon by arbitration and all monies determined",
+        "purpose of assuring compliance with  this Agreement. Equidata  reserves the right to site inspect Marketing Affiliate \u2019s",
+        "in accordance with Equidata standard practices. Marketing Affiliate and the  undersigned principal, partner or owner"
+      ],
+      "top_scores": [
+        21.69831085205078,
+        21.436092376708984,
+        20.4500675201416,
+        19.199987411499023,
+        19.00657081604004
+      ],
+      "best_chunk": "6.\u00a0Audit. Equidata may audit, at Equidata \u2019s expense, the Marketing Affiliate \u2019s marketing,  practices and activities for the",
+      "best_score": 21.69831085205078,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "How must notices be sent under the Equidata agreement?",
+      "context_chunk": "12. Miscellaneous\u2026 All notices required to be given in writing must be sent by overnight delivery service\u2026 Notice is deemed effective on the day after delivery\u2026",
+      "top_chunks": [
+        "notices required to be given in writing must be sent by overnight delivery service to the name and address designated  in this",
+        "Section 14.1  Notices . All notices, consents, and other communications between the parties under or regarding this Agreement shall be in",
+        "Any\u00a0notice\u00a0given\u00a0under\u00a0this\u00a0Agreement\u00a0shall\u00a0be\u00a0in\u00a0writing,\u00a0shall\u00a0be\u00a0sent\u00a0postage\u00a0 prepaid\u00a0by\u00a0certified\u00a0mail,\u00a0return\u00a0receipt",
+        "Notices\u00a0given\u00a0by\u00a0hand\u00a0delivery\u00a0shall\u00a0be\u00a0deemed\u00a0received\u00a0upon\u00a0delivery\u00a0to\u00a0the\u00a0addressee.\u00a0 Notices\u00a0given\u00a0by\u00a0certified\u00a0mail\u00a0shall\u00a0be",
+        "All  notices  shall  be deemed given when delivered in person or upon depositing"
+      ],
+      "top_scores": [
+        22.0589542388916,
+        20.264888763427734,
+        20.075773239135742,
+        20.05603790283203,
+        18.48731231689453
+      ],
+      "best_chunk": "notices required to be given in writing must be sent by overnight delivery service to the name and address designated  in this",
+      "best_score": 22.0589542388916,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "Name one prohibited marketing activity called out in the Equidata Compliance clause.",
+      "context_chunk": "5.1.\u2026 connected with the transmission of \u201cjunk mail\u201d, \u201cspam\u201d or the unsolicited mass distribution of e-mail\u2026",
+      "top_chunks": [
+        "prohibited from:  (i) promoting the grand opening of a Theatre or an Excluded Theatre, provided such promotional activity (x) may occur only for",
+        "5.\u00a0Compliance. Marketing Affiliate nor Equidata, shall engage in any practice or activity that  is not in compliance with the Fair",
+        "\u2022\u00a0Affiliate\u00a0is\u00a0prohibited\u00a0from\u00a0(a)\u00a0installing\u00a0spyware\u00a0on\u00a0another\u00a0person\u2019s\u00a0computer,\u00a0(b)\u00a0causing\u00a0spyware\u00a0to\u00a0be\u00a0installed\u00a0on\u00a0another\u00a0person\u2019s",
+        "circumstances other than those as to which it is invalid, unenforceable, or prohibited, shall not be affected thereby, and each other term and",
+        "In\u00a0addition,\u00a0the\u00a0following\u00a0terms\u00a0are\u00a0prohibited:\u00a0Chase,\u00a0Chase\u00a0bank,\u00a0www.chase.com,\u00a0www.creditcardsatchase.com,\u00a0www.chasecreditcard.com,"
+      ],
+      "top_scores": [
+        32.023284912109375,
+        28.92276382446289,
+        24.18777084350586,
+        21.32697868347168,
+        20.988346099853516
+      ],
+      "best_chunk": "prohibited from:  (i) promoting the grand opening of a Theatre or an Excluded Theatre, provided such promotional activity (x) may occur only for",
+      "best_score": 32.023284912109375,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What non-solicitation restriction applies to Marketing Affiliate with respect to Equidata\u2019s customers?",
+      "context_chunk": "4. Non-solicitation of Clients. Marketing Affiliate shall not directly or indirectly solicit an existing business customer of Equidata\u2026",
+      "top_chunks": [
+        "4.01     RESTRICTIONS.  Affiliate shall not, without the express written consent",
+        "be  in  contract  with.  Such  restriction shall also apply to Affiliate's past,",
+        "Section 5.2  Software Restrictions . Network Affiliate acknowledges that the Software and any and all components thereof constitute",
+        "that Network Affiliate shall insure that the restrictions and standards, including, without limitations those such as are set forth in",
+        "limitation\u00a0shall\u00a0not\u00a0apply\u00a0to\u00a0intentional\u00a0 misconduct\u00a0by\u00a0Network\u00a0or\u00a0its\u00a0agents\u00a0or\u00a0employees."
+      ],
+      "top_scores": [
+        35.14381408691406,
+        34.2041130065918,
+        31.29444122314453,
+        28.771726608276367,
+        27.58954620361328
+      ],
+      "best_chunk": "4.01     RESTRICTIONS.  Affiliate shall not, without the express written consent",
+      "best_score": 35.14381408691406,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the arbitration timeline after selection of arbitrators under Equidata\u2019s dispute clause?",
+      "context_chunk": "If the parties do not agree\u2026 arbitrators\u2026 schedule\u2026 commence\u2026 no later than 25 calendar days\u2026 The arbitrator(s) shall issue an award\u2026 no later than 10 calendar days after the conclusion\u2026",
+      "top_chunks": [
+        "If the  parties do not agree on the selection of an arbitrator, each party will select an arbitrator of their  choosing, and the two",
+        "arbitrators will jointly select a third arbitrator(s). Not later than 5  calendar days after the arbitrator(s) have been selected, the",
+        "8.06     ARBITRATION.  All  disputes  or  claims  hereunder shall be resolved by",
+        "arbitrator(s) shall schedule the arbitration hearing to commence on a mutually convenient  date. The hearing shall commence",
+        "the hearing. The arbitration award shall be final and binding on both  parties."
+      ],
+      "top_scores": [
+        22.850940704345703,
+        22.240562438964844,
+        21.199283599853516,
+        20.423154830932617,
+        19.537185668945312
+      ],
+      "best_chunk": "If the  parties do not agree on the selection of an arbitrator, each party will select an arbitrator of their  choosing, and the two",
+      "best_score": 22.850940704345703,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What personal guaranty does the Equidata agreement impose?",
+      "context_chunk": "\u2026the undersigned principal, partner or owner further agree that this Agreement will serve as a personal guaranty\u2026",
+      "top_chunks": [
+        "further agree that this Agreement will serve as a  personal guaranty by the undersigned principal, partner or owner of",
+        "7.4.\u00a0Equidata reserves the right to terminate this Agreement immediately for cause if  Experian, Equifax and/or TransUnion",
+        "This Agreement is made this 1 st day of October 2008, (the \u201cEffective Date \u201d), by and between  Equidata, Inc., a corporation",
+        "Equidata, as compensation for its  providing of Services under this agreement, such amounts as outlined and detailed in",
+        "Equidata during the term and condition of this Agreement  other than for joint marketing purposes. Further, Marketing"
+      ],
+      "top_scores": [
+        11.783441543579102,
+        9.455718040466309,
+        9.201069831848145,
+        9.189699172973633,
+        9.111595153808594
+      ],
+      "best_chunk": "further agree that this Agreement will serve as a  personal guaranty by the undersigned principal, partner or owner of",
+      "best_score": 11.783441543579102,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "Does the Equidata agreement permit the use of Marketing Materials in telemarketing?",
+      "context_chunk": "Permission\u2026 Marketing Materials may also be used\u2026 as well as inbound and outbound telemarketing.",
+      "top_chunks": [
+        "Party to permit the other  Party to  respond  to a request  by the  subject",
+        "the contrary, NCM shall not be obligated to provide any right, license, clearance or consent necessary to permit the public exhibition of music in",
+        "Except as specifically permitted by this Agreement, neither party shall duplicate or use, or permit the duplication or use of, any Confidential",
+        "Information of the other party or disclose or permit the disclosure of such Confidential Information to any person or entity.  Each party shall limit",
+        "4.01     RESTRICTIONS.  Affiliate shall not, without the express written consent"
+      ],
+      "top_scores": [
+        25.03509521484375,
+        24.280967712402344,
+        23.936325073242188,
+        23.248371124267578,
+        22.4567928314209
+      ],
+      "best_chunk": "Party to permit the other  Party to  respond  to a request  by the  subject",
+      "best_score": 25.03509521484375,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is expressly defined as Confidential Information in the Equidata agreement?",
+      "context_chunk": "10. Proprietary Information\u2026 Confidential Information, includes, but is not limited to, Customer names and lists.",
+      "top_chunks": [
+        "access to or possession of Confidential Information through the receiving party that would be a breach of this Agreement if committed by the",
+        "confidentiality and non -disclosure agreements protecting the confidentiality of the Confidential Information at least to the same extent as such",
+        "Agreement, use the Confidential Information of the other party only to the extent necessary to perform its obligations under this Agreement.",
+        "disclose Confidential  Information for the purposes authorized by this Agreement",
+        "Information of the other party or disclose or permit the disclosure of such Confidential Information to any person or entity.  Each party shall limit"
+      ],
+      "top_scores": [
+        18.443214416503906,
+        18.12623405456543,
+        17.279447555541992,
+        17.089895248413086,
+        16.828746795654297
+      ],
+      "best_chunk": "access to or possession of Confidential Information through the receiving party that would be a breach of this Agreement if committed by the",
+      "best_score": 18.443214416503906,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What are the email contacts for notice in the Equidata signature block?",
+      "context_chunk": "Company Name: Equidata, Inc.\u2026 Email Address: Kchase@equidata.com Email Address: ivan.posniak@nationalcreditreport.com",
+      "top_chunks": [
+        "the signature page (unless by such notice a different person or address",
+        "Notices\u00a0given\u00a0by\u00a0hand\u00a0delivery\u00a0shall\u00a0be\u00a0deemed\u00a0received\u00a0upon\u00a0delivery\u00a0to\u00a0the\u00a0addressee.\u00a0 Notices\u00a0given\u00a0by\u00a0certified\u00a0mail\u00a0shall\u00a0be",
+        "by mail on the next  business  day.  All such  notices will be deemed given",
+        "notices required to be given in writing must be sent by overnight delivery service to the name and address designated  in this",
+        "Section 14.1  Notices . All notices, consents, and other communications between the parties under or regarding this Agreement shall be in"
+      ],
+      "top_scores": [
+        14.641322135925293,
+        12.824572563171387,
+        11.66958999633789,
+        11.433530807495117,
+        10.982053756713867
+      ],
+      "best_chunk": "the signature page (unless by such notice a different person or address",
+      "best_score": 14.641322135925293,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the Initial Term of The TUBE\u2013Tribune Charter Affiliate Affiliation Agreement?",
+      "context_chunk": "2. TERM, EXTENSION AND RENEWAL: (a) Initial Term\u2026 commence upon the Effective Date and shall expire on March 31, 2011.",
+      "top_chunks": [
+        "(e)\u00a0Affiliate\u00a0acknowledges\u00a0that\u00a0the\u00a0name\u00a0and\u00a0mark\u00a0\u201c The\u00a0TUBE\u201d\u00a0(and\u00a0the\u00a0names\u00a0of\u00a0certain\u00a0programs\u00a0that\u00a0appear\u00a0in\u00a0the\u00a0Service\u00a0and",
+        "TUBE\u00a0Music\u00a0Network,\u00a0Inc.,\u00a0a\u00a0Florida\u00a0corporation\u00a0(the\u00a0\u201c Network\u201d),\u00a0and\u00a0Tribune\u00a0Broadcasting\u00a0Company,\u00a0a\u00a0Delaware\u00a0corporation\u00a0(\u201c Affiliate\u201d),",
+        "The\u00a0TUBE\u00a0Music\u00a0Network,\u00a0Inc.\u00a0and\u00a0Tribune\u00a0Broadcasting\u00a0 Company]",
+        "TRIBUNE\u00a0BROADCASTING\u00a0 COMPANY THE\u00a0TUBE\u00a0MUSIC\u00a0NETWORK,\u00a0 INC.",
+        "regarding\u00a0the\u00a0television\u00a0programming\u00a0service\u00a0currently\u00a0known\u00a0as\u00a0\u201cThe\u00a0TUBE\u201d\u00a0(the\u00a0\u201c Service\u201d).\u00a0The\u00a0parties\u00a0hereby\u00a0mutually\u00a0agree\u00a0as\u00a0follows:"
+      ],
+      "top_scores": [
+        21.005830764770508,
+        19.46564483642578,
+        17.719770431518555,
+        17.353057861328125,
+        17.259239196777344
+      ],
+      "best_chunk": "(e)\u00a0Affiliate\u00a0acknowledges\u00a0that\u00a0the\u00a0name\u00a0and\u00a0mark\u00a0\u201c The\u00a0TUBE\u201d\u00a0(and\u00a0the\u00a0names\u00a0of\u00a0certain\u00a0programs\u00a0that\u00a0appear\u00a0in\u00a0the\u00a0Service\u00a0and",
+      "best_score": 21.005830764770508,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How many promotional announcements per week must a Station air for the Service?",
+      "context_chunk": "8.(a) Affiliate shall actively promote\u2026 including\u2026 at least ten (10) thirty (30)-second promotional announcements per week\u2026",
+      "top_chunks": [
+        "transmitting\u00a0the\u00a0Service\u00a0of\u00a0an\u00a0 average\u00a0of\u00a0at\u00a0least\u00a0ten\u00a0(10)\u00a0thirty\u00a0(30)-second\u00a0promotional\u00a0announcements\u00a0per\u00a0week\u00a0 for\u00a0the\u00a0Service\u00a0(\u201c Promotional",
+        "newsbreaks,\u00a0station-produced\u00a0vignettes\u00a0 or\u00a0promotion\u00a0one\u00a0(1)\u00a0minute\u00a0of\u00a0commercial\u00a0announcement\u00a0time\u00a0per\u00a0hour\u00a0(\u201c Local\u00a0Advertising \u201d),\u00a0normally\u00a0at",
+        "(b)\u00a0Network\u00a0shall\u00a0produce\u00a0and\u00a0deliver\u00a0the\u00a0Promotional\u00a0Spots\u00a0to\u00a0each\u00a0Station\u00a0at\u00a0least\u00a0two\u00a0 (2)\u00a0weeks\u00a0prior\u00a0to\u00a0the\u00a0first\u00a0air\u00a0date,\u00a0and",
+        "Station\u00a0with\u00a0respect\u00a0to\u00a0the\u00a0Promotional\u00a0 Spots\u00a0aired\u00a0by\u00a0each\u00a0Station\u00a0during\u00a0such\u00a0calendar\u00a0quarter,\u00a0setting\u00a0forth\u00a0the\u00a0 date\u00a0and\u00a0time\u00a0each\u00a0such",
+        "(c)\u00a0Network\u00a0shall\u00a0provide\u00a0to\u00a0each\u00a0Station\u00a0that\u00a0transmits\u00a0the\u00a0Service\u00a0for\u00a0local\u00a0advertising\u00a0 sales,\u00a0public\u00a0service\u00a0announcements,"
+      ],
+      "top_scores": [
+        31.396163940429688,
+        27.126956939697266,
+        27.023412704467773,
+        20.378738403320312,
+        19.877145767211914
+      ],
+      "best_chunk": "transmitting\u00a0the\u00a0Service\u00a0of\u00a0an\u00a0 average\u00a0of\u00a0at\u00a0least\u00a0ten\u00a0(10)\u00a0thirty\u00a0(30)-second\u00a0promotional\u00a0announcements\u00a0per\u00a0week\u00a0 for\u00a0the\u00a0Service\u00a0(\u201c Promotional",
+      "best_score": 31.396163940429688,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What bandwidth must a Station provide for The TUBE\u2019s Service?",
+      "context_chunk": "5.(d)\u2026 Each Station will provide Network with up to 5.0 mbps, but, at all times, not less than 2.0 mbps\u2026",
+      "top_chunks": [
+        "broadcasting\u00a0for\u00a0maintenance\u00a0or\u00a0repairs.\u00a0Each\u00a0Station\u00a0 will\u00a0provide\u00a0Network\u00a0with\u00a0up\u00a0to\u00a05.0\u00a0mbps,\u00a0but,\u00a0at\u00a0all\u00a0times,\u00a0not\u00a0less\u00a0than\u00a0 2.0\u00a0mbps,\u00a0for\u00a0this",
+        "regarding\u00a0the\u00a0television\u00a0programming\u00a0service\u00a0currently\u00a0known\u00a0as\u00a0\u201cThe\u00a0TUBE\u201d\u00a0(the\u00a0\u201c Service\u201d).\u00a0The\u00a0parties\u00a0hereby\u00a0mutually\u00a0agree\u00a0as\u00a0follows:",
+        "such\u00a0Station\u00a0be\u00a0required\u00a0to\u00a0deliver\u00a0 a\u00a0signal\u00a0of\u00a0a\u00a0technical\u00a0quality\u00a0higher\u00a0than\u00a0the\u00a0technical\u00a0quality\u00a0of\u00a0the\u00a0video\u00a0 and\u00a0audio\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0as",
+        "The\u00a0TUBE\u00a0Music\u00a0Network,\u00a0Inc.\u00a0and\u00a0Tribune\u00a0Broadcasting\u00a0 Company]",
+        "TUBE\u00a0Music\u00a0Network,\u00a0Inc.,\u00a0a\u00a0Florida\u00a0corporation\u00a0(the\u00a0\u201c Network\u201d),\u00a0and\u00a0Tribune\u00a0Broadcasting\u00a0Company,\u00a0a\u00a0Delaware\u00a0corporation\u00a0(\u201c Affiliate\u201d),"
+      ],
+      "top_scores": [
+        13.699067115783691,
+        12.39941120147705,
+        11.368677139282227,
+        10.834563255310059,
+        10.826167106628418
+      ],
+      "best_chunk": "broadcasting\u00a0for\u00a0maintenance\u00a0or\u00a0repairs.\u00a0Each\u00a0Station\u00a0 will\u00a0provide\u00a0Network\u00a0with\u00a0up\u00a0to\u00a05.0\u00a0mbps,\u00a0but,\u00a0at\u00a0all\u00a0times,\u00a0not\u00a0less\u00a0than\u00a0 2.0\u00a0mbps,\u00a0for\u00a0this",
+      "best_score": 13.699067115783691,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the Equipment Reimbursement Cap for initial Stations?",
+      "context_chunk": "5.(b)\u2026 Receiving Equipment\u2026 for all of the Stations initially listed on Exhibit A shall not exceed\u2026 $125,000.00 (the \u201cEquipment Reimbursement Cap\u201d).",
+      "top_chunks": [
+        "changes\u00a0are\u00a0implemented,\u00a0without\u00a0regard\u00a0to\u00a0the\u00a0Equipment\u00a0 Reimbursement\u00a0Cap\u037e\u00a0provided,\u00a0however,\u00a0that\u00a0with\u00a0respect\u00a0to\u00a0new\u00a0equipment\u00a0made",
+        "Exhibit\u00a0A\u00a0shall\u00a0not\u00a0exceed,\u00a0in\u00a0the\u00a0aggregate,\u00a0one\u00a0hundred\u00a0twenty-five\u00a0thousand\u00a0dollars\u00a0 ($125,000.00)\u00a0(the\u00a0\u201c Equipment\u00a0 Reimbursement\u00a0Cap \u201d).\u00a0At",
+        "services\u00a0carried\u00a0by\u00a0such\u00a0Station,\u00a0Network\u00a0shall\u00a0be\u00a0obligated\u00a0to\u00a0reimburse\u00a0Affiliate\u00a0 only\u00a0for\u00a0Network\u2019s\u00a0pro-rata\u00a0share\u00a0of\u00a0the\u00a0cost\u00a0of\u00a0such\u00a0equipment",
+        "cost\u00a0of\u00a0all\u00a0 equipment\u00a0or\u00a0return\u00a0such\u00a0equipment\u00a0related\u00a0to\u00a0such\u00a0Station(s)\u00a0that\u00a0was\u00a0paid\u00a0 for\u00a0by\u00a0Network\u00a0pursuant\u00a0to\u00a0Section\u00a05(b)\u00a0herein.",
+        "(b)\u00a0Exhibit\u00a0C\u00a0sets\u00a0forth\u00a0the\u00a0specific\u00a0equipment\u00a0necessary\u00a0for\u00a0each\u00a0Station\u00a0to\u00a0receive\u00a0the\u00a0signal\u00a0 of\u00a0the\u00a0Service\u00a0(the\u00a0\u201c Receiving"
+      ],
+      "top_scores": [
+        14.91256332397461,
+        12.37741470336914,
+        10.840747833251953,
+        10.598137855529785,
+        9.920499801635742
+      ],
+      "best_chunk": "changes\u00a0are\u00a0implemented,\u00a0without\u00a0regard\u00a0to\u00a0the\u00a0Equipment\u00a0 Reimbursement\u00a0Cap\u037e\u00a0provided,\u00a0however,\u00a0that\u00a0with\u00a0respect\u00a0to\u00a0new\u00a0equipment\u00a0made",
+      "best_score": 14.91256332397461,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Who has exclusive right to sell advertising on the Service (excluding local elements)?",
+      "context_chunk": "4.(e) Advertising. Except for the Local Advertising and advertising broadcast in Local Programming, Network shall have the exclusive right and authority to sell all of the advertising\u2026",
+      "top_chunks": [
+        "exclusive\u00a0right\u00a0and\u00a0authority\u00a0to\u00a0sell\u00a0all\u00a0of\u00a0the\u00a0 advertising\u00a0on\u00a0the\u00a0Service\u00a0and\u00a0shall\u00a0share\u00a0a\u00a0portion\u00a0of\u00a0Network\u2019s\u00a0Advertising\u00a0 Revenue\u00a0generated\u00a0from",
+        "Local\u00a0Advertising.\u00a0Affiliate\u00a0agrees\u00a0not\u00a0to\u00a0sell\u00a0commercial\u00a0time\u00a0to\u00a0or\u00a0for\u00a0 the\u00a0benefit\u00a0of\u00a0direct\u00a0competitors\u00a0of\u00a0the\u00a0Service\u00a0( e.g.,\u00a0music\u00a0video\u00a0networks",
+        "sale of advertising Inventory exhibited in the Theatres which is actually collected less refunds and any similar disbursements and any applicable",
+        "advertising units that follow these Branded Slots through the sale of additional advertising to third parties.",
+        "sales generated by end users referred via the electronic advertisement (the"
+      ],
+      "top_scores": [
+        37.871971130371094,
+        31.264467239379883,
+        27.808860778808594,
+        25.88739776611328,
+        25.45553207397461
+      ],
+      "best_chunk": "exclusive\u00a0right\u00a0and\u00a0authority\u00a0to\u00a0sell\u00a0all\u00a0of\u00a0the\u00a0 advertising\u00a0on\u00a0the\u00a0Service\u00a0and\u00a0shall\u00a0share\u00a0a\u00a0portion\u00a0of\u00a0Network\u2019s\u00a0Advertising\u00a0 Revenue\u00a0generated\u00a0from",
+      "best_score": 37.871971130371094,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What share of Network\u2019s Advertising Revenue is payable to Affiliate under Exhibit D?",
+      "context_chunk": "Exhibit D \u2013 Revenue Share\u2026 \u201cAffiliate Advertising Share\u201d\u2026 fifteen percent (15%) of Network\u2019s Advertising Revenue\u2026",
+      "top_chunks": [
+        "\u201cAffiliate\u00a0Advertising\u00a0Share \u201d\u00a0has\u00a0the\u00a0meaning\u00a0set\u00a0forth\u00a0in\u00a0 Exhibit\u00a0D.",
+        "quarter\u00a0thereafter\u00a0during\u00a0the\u00a0Term,\u00a0Network\u00a0shall\u00a0pay\u00a0 to\u00a0Affiliate\u00a0the\u00a0Affiliate\u00a0Advertising\u00a0Share.\u00a0For\u00a0purposes\u00a0hereof,\u00a0the",
+        "\u201cAffiliate\u00a0Advertising\u00a0Share \u201d\u00a0shall\u00a0be\u00a0determined\u00a0by\u00a0multiplying\u00a0fifteen\u00a0percent\u00a0(15%)\u00a0of\u00a0Network\u2019s\u00a0 Advertising\u00a0Revenue\u00a0for",
+        "2.Payment.\u00a0The\u00a0Affiliate\u00a0Advertising\u00a0Share,\u00a0if\u00a0any,\u00a0shall\u00a0be\u00a0payable\u00a0quarterly\u00a0 and\u00a0shall\u00a0be\u00a0due\u00a0no\u00a0later\u00a0than\u00a0forty-five\u00a0(45)\u00a0days",
+        "exclusive\u00a0right\u00a0and\u00a0authority\u00a0to\u00a0sell\u00a0all\u00a0of\u00a0the\u00a0 advertising\u00a0on\u00a0the\u00a0Service\u00a0and\u00a0shall\u00a0share\u00a0a\u00a0portion\u00a0of\u00a0Network\u2019s\u00a0Advertising\u00a0 Revenue\u00a0generated\u00a0from"
+      ],
+      "top_scores": [
+        30.164588928222656,
+        30.03600311279297,
+        29.417633056640625,
+        28.427852630615234,
+        27.143131256103516
+      ],
+      "best_chunk": "\u201cAffiliate\u00a0Advertising\u00a0Share \u201d\u00a0has\u00a0the\u00a0meaning\u00a0set\u00a0forth\u00a0in\u00a0 Exhibit\u00a0D.",
+      "best_score": 30.164588928222656,
+      "context_match": true,
+      "first_match_rank": 3
+    },
+    {
+      "question": "How much Local Advertising time per hour is provided to each Station?",
+      "context_chunk": "8.(c) Network shall provide to each Station\u2026 one (1) minute of commercial announcement time per hour (\u201cLocal Advertising\u201d).",
+      "top_chunks": [
+        "carried\u00a0by\u00a0MVPDs\u00a0such\u00a0as\u00a0MTV,\u00a0VH1\u00a0and\u00a0Fuse).\u00a0All\u00a0Local\u00a0 Advertising\u00a0shall\u00a0comply\u00a0with\u00a0the\u00a0pertinent\u00a0Station\u2019s\u00a0generally\u00a0applicable\u00a0 broadcast",
+        "Local\u00a0Advertising.\u00a0Affiliate\u00a0agrees\u00a0not\u00a0to\u00a0sell\u00a0commercial\u00a0time\u00a0to\u00a0or\u00a0for\u00a0 the\u00a0benefit\u00a0of\u00a0direct\u00a0competitors\u00a0of\u00a0the\u00a0Service\u00a0( e.g.,\u00a0music\u00a0video\u00a0networks",
+        "(B) events presented by Network Affiliate.  Additionally, Theatre Advertising shall include advertising, marketing and promotion of a local radio",
+        "advertising of one or more of the Theatres by the radio station(s) in exchange solely for advertising the radio station or stations in one or more of",
+        "(c)\u00a0Network\u00a0shall\u00a0provide\u00a0to\u00a0each\u00a0Station\u00a0that\u00a0transmits\u00a0the\u00a0Service\u00a0for\u00a0local\u00a0advertising\u00a0 sales,\u00a0public\u00a0service\u00a0announcements,"
+      ],
+      "top_scores": [
+        23.472476959228516,
+        21.727310180664062,
+        21.577106475830078,
+        21.299333572387695,
+        21.246379852294922
+      ],
+      "best_chunk": "carried\u00a0by\u00a0MVPDs\u00a0such\u00a0as\u00a0MTV,\u00a0VH1\u00a0and\u00a0Fuse).\u00a0All\u00a0Local\u00a0 Advertising\u00a0shall\u00a0comply\u00a0with\u00a0the\u00a0pertinent\u00a0Station\u2019s\u00a0generally\u00a0applicable\u00a0 broadcast",
+      "best_score": 23.472476959228516,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What cure period applies to a material breach by Affiliate before Network may terminate?",
+      "context_chunk": "10.(a)\u2026 Network may\u2026 terminate\u2026 if Affiliate is in material breach\u2026 provided that Affiliate shall have thirty (30) days\u2026 to cure such breach",
+      "top_chunks": [
+        "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Affiliate\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Affiliate\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from",
+        "to cure, fails to cure such breach within five (5) days after receipt from the terminating party of written notice of the breach.  Notwithstanding",
+        "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Network\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Network\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from\u00a0its",
+        "must\u00a0be\u00a0cured\u00a0within\u00a0ten\u00a0(10)\u00a0days\u00a0 after\u00a0notice.\u00a0A\u00a0breach\u00a0involving\u00a0Network\u2019s\u00a0failure\u00a0to\u00a0pay\u00a0an\u00a0amount\u00a0due\u00a0to\u00a0Affiliate\u00a0 pursuant\u00a0to\u00a0Section\u00a06\u00a0 above",
+        "anything else to the contrary herein, if the breach is not susceptible to cure, this Agreement will terminate immediately as of such breach, with or"
+      ],
+      "top_scores": [
+        29.56627655029297,
+        26.937541961669922,
+        26.721948623657227,
+        26.023025512695312,
+        25.982860565185547
+      ],
+      "best_chunk": "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Affiliate\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Affiliate\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from",
+      "best_score": 29.56627655029297,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What insurance must Network maintain and at what limits?",
+      "context_chunk": "9.(h) Network has procured\u2026 Commercial General Liability\u2026 $1,000,000 each occurrence and $2,000,000 aggregate\u2026 Errors and Omissions\u2026 $1,000,000\u2026",
+      "top_chunks": [
+        "Section 11.6  Insurance . Network Affiliate shall maintain with financially sound and reputable insurance companies insurance on the",
+        "(i)\u00a0During\u00a0the\u00a0Term\u00a0and\u00a0for\u00a0one\u00a0(1)\u00a0year\u00a0thereafter,\u00a0Network\u00a0shall\u00a0maintain\u00a0 accurate\u00a0and\u00a0complete\u00a0books\u00a0and\u00a0records\u00a0in\u00a0accordance",
+        "(h)\u00a0Network\u00a0has\u00a0procured,\u00a0and\u00a0shall\u00a0maintain\u00a0during\u00a0the\u00a0Term,\u00a0at\u00a0its\u00a0sole\u00a0expense,\u00a0 Commercial\u00a0General\u00a0Liability\u00a0insurance\u00a0at",
+        "Affiliate\u00a0Launch\u00a0Date,\u00a0and\u00a0shall\u00a0maintain\u00a0 during\u00a0the\u00a0Term,\u00a0at\u00a0its\u00a0sole\u00a0expense,\u00a0Errors\u00a0and\u00a0Omissions\u00a0insurance\u00a0that\u00a0covers\u00a0 Network\u2019s\u00a0media",
+        "(e)\u00a0Without\u00a0limiting\u00a0Section\u00a09(d),\u00a0Network\u00a0shall\u00a0indemnify,\u00a0defend\u00a0and\u00a0forever\u00a0hold\u00a0harmless\u00a0 the\u00a0Affiliate\u00a0Indemnitees\u00a0from\u00a0and"
+      ],
+      "top_scores": [
+        17.288175582885742,
+        17.12605094909668,
+        16.50037956237793,
+        14.983977317810059,
+        14.789092063903809
+      ],
+      "best_chunk": "Section 11.6  Insurance . Network Affiliate shall maintain with financially sound and reputable insurance companies insurance on the",
+      "best_score": 17.288175582885742,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Which state\u2019s law governs the TUBE\u2013Tribune agreement?",
+      "context_chunk": "13.(c) Governing Law\u2026 shall be governed by the laws of the State of New York\u2026",
+      "top_chunks": [
+        "(a) Governing Law . This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance",
+        "Agreement  shall  govern  the agreement between the parties until such time that",
+        "local\u00a0laws,\u00a0rules\u00a0and\u00a0regulations,\u00a0and\u00a0this\u00a0 Agreement\u00a0and\u00a0all\u00a0matters\u00a0or\u00a0issues\u00a0collateral\u00a0thereto\u00a0shall\u00a0be\u00a0governed\u00a0by\u00a0 the\u00a0laws\u00a0of\u00a0the\u00a0State\u00a0of\u00a0New",
+        "(c)\u00a0Governing\u00a0 Law.\u00a0The\u00a0obligations\u00a0of\u00a0Affiliate\u00a0and\u00a0Network\u00a0under\u00a0this\u00a0Agreement\u00a0are\u00a0subject\u00a0to\u00a0all\u00a0 applicable\u00a0federal,\u00a0state\u00a0and",
+        "This\u00a0Agreement\u00a0will\u00a0be\u00a0governed\u00a0in\u00a0all\u00a0respects\u00a0by\u00a0the\u00a0laws\u00a0of\u00a0the\u00a0State\u00a0of\u00a0Delaware,\u00a0including\u00a0its\u00a0conflict\u00a0with\u00a0law\u00a0provisions."
+      ],
+      "top_scores": [
+        22.76099967956543,
+        21.958999633789062,
+        20.028724670410156,
+        19.994651794433594,
+        19.575664520263672
+      ],
+      "best_chunk": "(a) Governing Law . This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance",
+      "best_score": 22.76099967956543,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "May Affiliate pre-empt Service programming it deems unsuitable or of lesser importance?",
+      "context_chunk": "4.(c) Preemption. Affiliate shall retain the right to elect not to transmit any programming\u2026 or to substitute\u2026 of greater local or national importance.",
+      "top_chunks": [
+        "of\u00a0a\u00a0Station\u00a0if\u00a0Affiliate\u00a0reasonably\u00a0 believes\u00a0that\u00a0such\u00a0programming\u00a0is\u00a0unsatisfactory\u00a0or\u00a0unsuitable\u00a0or\u00a0contrary\u00a0 to\u00a0the\u00a0public\u00a0interest,\u00a0or\u00a0in\u00a0order\u00a0to",
+        "a\u00a0determination\u00a0that\u00a0your\u00a0site\u00a0is\u00a0unsuitable\u00a0for\u00a0or\u00a0incompatible\u00a0with\u00a0the\u00a0Affiliate\u00a0Program\u00a0based\u00a0on\u00a0the\u00a0following\u00a0criteria\u00a0(collectively\u00a0\u201cRestricted",
+        "complementary\u00a0to\u00a0the\u00a0Service\u00a0(\u201c Local\u00a0Programming \u201d),\u00a0at\u00a0Affiliate\u2019s\u00a0option.\u00a0Service\u00a0programming\u00a0will\u00a0be\u00a0provided\u00a0during\u00a0this\u00a0thirty\u00a0(30)\u00a0 -minute",
+        "(c)\u00a0Preemption .\u00a0Affiliate\u00a0shall\u00a0retain\u00a0the\u00a0right\u00a0to\u00a0elect\u00a0not\u00a0to\u00a0transmit\u00a0any\u00a0programming\u00a0on\u00a0 the\u00a0Service\u00a0over\u00a0the\u00a0broadcast\u00a0facilities",
+        "Programming\u00a0made\u00a0available\u00a0to\u00a0Affiliate\u00a0during\u00a0the\u00a0preceding\u00a0quarter\u00a0 and\u00a0certifying\u00a0that\u00a0any\u00a0programming\u00a0produced\u00a0primarily\u00a0for"
+      ],
+      "top_scores": [
+        22.944366455078125,
+        19.806903839111328,
+        16.014982223510742,
+        15.800860404968262,
+        15.58597469329834
+      ],
+      "best_chunk": "of\u00a0a\u00a0Station\u00a0if\u00a0Affiliate\u00a0reasonably\u00a0 believes\u00a0that\u00a0such\u00a0programming\u00a0is\u00a0unsatisfactory\u00a0or\u00a0unsuitable\u00a0or\u00a0contrary\u00a0 to\u00a0the\u00a0public\u00a0interest,\u00a0or\u00a0in\u00a0order\u00a0to",
+      "best_score": 22.944366455078125,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What closed-captioning obligation applies to the Service?",
+      "context_chunk": "4.(g) Closed Captioning\u2026 Network shall provide full-time closed captioning\u2026",
+      "top_chunks": [
+        "(g)\u00a0Closed\u00a0Captioning\u037e\u00a0Program\u00a0Ratings .\u00a0Network\u00a0shall\u00a0provide\u00a0full-time\u00a0closed\u00a0captioning\u00a0for\u00a0the\u00a0Service\u00a0in\u00a0all\u00a0programming\u00a0 and",
+        "All obligations of the non-breaching party, should cancellation be due to",
+        "THE INDEMNIFICATION OBLIGATIONS OF THE PARTIES UNDER ARTICLE X, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE",
+        "its\u00a0obligations\u00a0hereunder\u037e\u00a0(iii)\u00a0 it\u00a0is\u00a0under\u00a0no\u00a0contractual\u00a0or\u00a0other\u00a0legal\u00a0obligation\u00a0that\u00a0shall\u00a0in\u00a0any\u00a0way\u00a0interfere\u00a0 with\u00a0its\u00a0full,\u00a0prompt\u00a0and\u00a0complete",
+        "obligations\u00a0under\u00a0this\u00a0Agreement.\u00a0The\u00a0foregoing\u00a0restrictions\u00a0will\u00a0not\u00a0apply\u00a0to\u00a0information\u00a0to\u00a0the\u00a0extent\u00a0it\u00a0(i)\u00a0was\u00a0known\u00a0to\u00a0the\u00a0receiving\u00a0party\u00a0at\u00a0the"
+      ],
+      "top_scores": [
+        13.366395950317383,
+        12.957810401916504,
+        12.607224464416504,
+        12.19719409942627,
+        12.11390209197998
+      ],
+      "best_chunk": "(g)\u00a0Closed\u00a0Captioning\u037e\u00a0Program\u00a0Ratings .\u00a0Network\u00a0shall\u00a0provide\u00a0full-time\u00a0closed\u00a0captioning\u00a0for\u00a0the\u00a0Service\u00a0in\u00a0all\u00a0programming\u00a0 and",
+      "best_score": 13.366395950317383,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What DPI signalling standard must Network use for local ad insertion?",
+      "context_chunk": "5.(e) Network agrees to transmit SCTE 35-compliant DPI commands\u2026",
+      "top_chunks": [
+        "(e)\u00a0\u00a0Network\u00a0agrees\u00a0to\u00a0transmit\u00a0SCTE\u00a035-compliant\u00a0DPI\u00a0commands\u00a0within\u00a0the\u00a0Service\u00a0that\u00a0will\u00a0 trigger\u00a0insertion\u00a0of\u00a0Local",
+        "Advertising\u00a0and\u00a0rejoin\u00a0commands\u00a0to\u00a0signal\u00a0the\u00a0return\u00a0 to\u00a0Network\u00a0programming.\u00a0Network\u00a0also\u00a0will\u00a0deliver\u00a0a\u00a0separate\u00a0set\u00a0of\u00a0SCTE\u00a0 35-compliant",
+        "(a)\u00a0During\u00a0the\u00a0Term,\u00a0Network,\u00a0at\u00a0its\u00a0expense,\u00a0shall\u00a0deliver\u00a0a\u00a024\u00a0hours\u00a0per\u00a0day,\u00a0 7\u00a0days\u00a0per\u00a0week\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0by",
+        "(e)\u00a0Advertising .\u00a0Except\u00a0for\u00a0the\u00a0Local\u00a0Advertising\u00a0and\u00a0advertising\u00a0broadcast\u00a0in\u00a0Local\u00a0Programming,\u00a0 Network\u00a0shall\u00a0have\u00a0the",
+        "(c)\u00a0Network\u00a0shall\u00a0provide\u00a0to\u00a0each\u00a0Station\u00a0that\u00a0transmits\u00a0the\u00a0Service\u00a0for\u00a0local\u00a0advertising\u00a0 sales,\u00a0public\u00a0service\u00a0announcements,"
+      ],
+      "top_scores": [
+        20.539827346801758,
+        19.787952423095703,
+        16.40964126586914,
+        15.206746101379395,
+        14.73025894165039
+      ],
+      "best_chunk": "(e)\u00a0\u00a0Network\u00a0agrees\u00a0to\u00a0transmit\u00a0SCTE\u00a035-compliant\u00a0DPI\u00a0commands\u00a0within\u00a0the\u00a0Service\u00a0that\u00a0will\u00a0 trigger\u00a0insertion\u00a0of\u00a0Local",
+      "best_score": 20.539827346801758,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Can Network discontinue the Service entirely, and with what notice?",
+      "context_chunk": "10.(b) Network retains the right\u2026 to discontinue its distribution of the Service\u2026 on at least ninety (90) days\u2019 prior notice\u2026",
+      "top_chunks": [
+        "to the other under this Agreement shall immediately terminate, and NCM shall be entitled to immediately discontinue the Service.  Notwithstanding",
+        "(b)\u00a0Network\u00a0retains\u00a0the\u00a0right\u00a0at\u00a0all\u00a0times\u00a0during\u00a0the\u00a0Term\u00a0to\u00a0discontinue\u00a0its\u00a0distribution\u00a0 of\u00a0the\u00a0Service\u00a0in\u00a0its\u00a0entirety\u00a0and\u00a0to",
+        "between\u00a0or\u00a0among\u00a0Network\u00a0and\u00a0any\u00a0one\u00a0or\u00a0more\u00a0 third\u00a0parties\u00a0applicable\u00a0to\u00a0such\u00a0Station\u00a0for\u00a0the\u00a0transmission\u00a0of\u00a0the\u00a0Service\u00a0 shall\u00a0terminate\u00a0and",
+        "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Network\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Network\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from\u00a0its",
+        "end\u00a0of\u00a0a\u00a0calendar\u00a0quarter,\u00a0Network\u00a0shall\u00a0supply\u00a0such\u00a0 statement\u00a0as\u00a0of\u00a0the\u00a0date\u00a0of\u00a0termination,\u00a0within\u00a0forty-five\u00a0(45)\u00a0days\u00a0thereafter,\u00a0 and\u00a0this"
+      ],
+      "top_scores": [
+        26.302087783813477,
+        25.04029655456543,
+        24.136533737182617,
+        23.595603942871094,
+        22.13520622253418
+      ],
+      "best_chunk": "to the other under this Agreement shall immediately terminate, and NCM shall be entitled to immediately discontinue the Service.  Notwithstanding",
+      "best_score": 26.302087783813477,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the limitation of liability clause between the parties?",
+      "context_chunk": "13.(j) LIMITATION OF LIABILITY. NOTWITHSTANDING ANY OTHER PROVISION\u2026 NEITHER PARTY SHALL BE LIABLE\u2026",
+      "top_chunks": [
+        "(j)\u00a0LIMITATION\u00a0 OF\u00a0LIABILITY .\u00a0NOTWITHSTANDING\u00a0ANY\u00a0OTHER\u00a0PROVISION\u00a0IN\u00a0THIS\u00a0AGREEMENT\u00a0TO\u00a0THE\u00a0CONTRARY,",
+        "parties to the agreement. The limitation of liability does not apply to",
+        "LIMITATIONS ARE A MATERIAL INDUCEMENT FOR THE PARTIES TO THIS AGREEMENT TO ENTER INTO THIS AGREEMENT, AND",
+        "limitation, exercising its rights under this Agreement, in compliance with all applicable international, national, state, and local laws, rules, and",
+        "(c) Limitations of Obligations . NCM shall not have any liability to Network Affiliate under this Section 10.3 for any alleged"
+      ],
+      "top_scores": [
+        34.64582061767578,
+        33.572750091552734,
+        32.570735931396484,
+        30.59164047241211,
+        28.818904876708984
+      ],
+      "best_chunk": "(j)\u00a0LIMITATION\u00a0 OF\u00a0LIABILITY .\u00a0NOTWITHSTANDING\u00a0ANY\u00a0OTHER\u00a0PROVISION\u00a0IN\u00a0THIS\u00a0AGREEMENT\u00a0TO\u00a0THE\u00a0CONTRARY,",
+      "best_score": 34.64582061767578,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What rights are granted to Affiliate regarding use of Network\u2019s marks?",
+      "context_chunk": "3.(e) Network hereby grants Affiliate\u2026 a\u2026 non-exclusive license to use the Marks\u2026",
+      "top_chunks": [
+        "Network Affiliate Marks in connection with the use thereof and to indicate such additional or alternative information as Network Affiliate shall",
+        "\u201cNetwork Affiliate Marks \u201d\u00a0means the trademarks, service marks, logos, slogans and/or designs of Network Affiliate, each as identified",
+        "(c) Any and all use or exercise of rights by Network Affiliate with respect to the NCM Marks shall be subject to and in",
+        "interest in any Network Affiliate Mark other than as expressly granted herein, nor shall it contest or assist others in contesting the title or any",
+        "(c) Any and all use or exercise of rights by NCM with respect to the Network Affiliate Marks shall be in accordance with"
+      ],
+      "top_scores": [
+        26.996963500976562,
+        26.00349998474121,
+        25.29616928100586,
+        25.242435455322266,
+        24.97495460510254
+      ],
+      "best_chunk": "Network Affiliate Marks in connection with the use thereof and to indicate such additional or alternative information as Network Affiliate shall",
+      "best_score": 26.996963500976562,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What are the delivery specs for the Service signal?",
+      "context_chunk": "5.(a)\u2026 shall be contained in no more than a 5.0 mbps stream\u2026 resolution\u2026 no less than 480 x 720i.",
+      "top_chunks": [
+        "(a)\u00a0During\u00a0the\u00a0Term,\u00a0Network,\u00a0at\u00a0its\u00a0expense,\u00a0shall\u00a0deliver\u00a0a\u00a024\u00a0hours\u00a0per\u00a0day,\u00a0 7\u00a0days\u00a0per\u00a0week\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0by",
+        "delivered in person, by e-mail, facsimile, Federal Express, UPS, or by certified",
+        "(radio, GSM, etc.) for delivery to a processing",
+        "notices required to be given in writing must be sent by overnight delivery service to the name and address designated  in this",
+        "requested,\u00a0or\u00a0by\u00a0hand\u00a0delivery,\u00a0or\u00a0 by\u00a0Federal\u00a0Express\u00a0or\u00a0similar\u00a0overnight\u00a0delivery\u00a0service,\u00a0to\u00a0the\u00a0other\u00a0party,\u00a0 at\u00a0the\u00a0following\u00a0address\u00a0(unless\u00a0either"
+      ],
+      "top_scores": [
+        20.957517623901367,
+        20.30857276916504,
+        19.62342643737793,
+        19.236370086669922,
+        19.15902328491211
+      ],
+      "best_chunk": "(a)\u00a0During\u00a0the\u00a0Term,\u00a0Network,\u00a0at\u00a0its\u00a0expense,\u00a0shall\u00a0deliver\u00a0a\u00a024\u00a0hours\u00a0per\u00a0day,\u00a0 7\u00a0days\u00a0per\u00a0week\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0by",
+      "best_score": 20.957517623901367,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How much local programming time per week may Affiliate insert?",
+      "context_chunk": "4.(b) Local Programming\u2026 thirty (30) minutes per week\u2026 anticipated\u2026 expand\u2026 to one (1) hour\u2026",
+      "top_chunks": [
+        "shall\u00a0have\u00a0the\u00a0right\u00a0to\u00a0expand\u00a0such\u00a0Local\u00a0Programming\u00a0to\u00a0one\u00a0(1)\u00a0 hour\u00a0per\u00a0week.\u00a0Affiliate\u00a0shall\u00a0be\u00a0solely\u00a0responsible\u00a0for\u00a0the\u00a0insertion\u00a0on\u00a0a\u00a0timely",
+        "(b)\u00a0Local\u00a0Programming .\u00a0Affiliate,\u00a0at\u00a0its\u00a0own\u00a0cost,\u00a0shall\u00a0be\u00a0provided\u00a0with\u00a0thirty\u00a0(30)\u00a0minutes\u00a0per\u00a0 week\u00a0on\u00a0the\u00a0Service,\u00a0on\u00a0the\u00a0same",
+        "day\u00a0and\u00a0at\u00a0the\u00a0same\u00a0time\u00a0each\u00a0week,\u00a0as\u00a0determined\u00a0 by\u00a0Network\u00a0in\u00a0consultation\u00a0with\u00a0Affiliate,\u00a0for\u00a0the\u00a0insertion\u00a0of\u00a0programming\u00a0by\u00a0 Affiliate\u00a0that\u00a0is",
+        "sponsorship\u00a0of\u00a0the\u00a0Local\u00a0Programming.\u00a0Affiliate\u00a0shall\u00a0apply\u00a0the\u00a0same\u00a0broadcast\u00a0 standards\u00a0to\u00a0the\u00a0Local\u00a0Programming\u00a0that\u00a0it\u00a0applies\u00a0to\u00a0each\u00a0Station\u2019s",
+        "complementary\u00a0to\u00a0the\u00a0Service\u00a0(\u201c Local\u00a0Programming \u201d),\u00a0at\u00a0Affiliate\u2019s\u00a0option.\u00a0Service\u00a0programming\u00a0will\u00a0be\u00a0provided\u00a0during\u00a0this\u00a0thirty\u00a0(30)\u00a0 -minute"
+      ],
+      "top_scores": [
+        24.37518310546875,
+        23.041481018066406,
+        20.01439094543457,
+        16.288042068481445,
+        15.130247116088867
+      ],
+      "best_chunk": "shall\u00a0have\u00a0the\u00a0right\u00a0to\u00a0expand\u00a0such\u00a0Local\u00a0Programming\u00a0to\u00a0one\u00a0(1)\u00a0 hour\u00a0per\u00a0week.\u00a0Affiliate\u00a0shall\u00a0be\u00a0solely\u00a0responsible\u00a0for\u00a0the\u00a0insertion\u00a0on\u00a0a\u00a0timely",
+      "best_score": 24.37518310546875,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What reporting must Network provide quarterly to Affiliate?",
+      "context_chunk": "7.(b) Network shall submit to Affiliate\u2026 a statement\u2026 for such calendar quarter\u2026",
+      "top_chunks": [
+        "(c)\u00a0Affiliate\u00a0shall\u00a0submit\u00a0to\u00a0Network,\u00a0within\u00a0forty-five\u00a0(45)\u00a0days\u00a0of\u00a0the\u00a0end\u00a0of\u00a0each\u00a0calendar\u00a0 quarter,\u00a0a\u00a0report\u00a0on\u00a0behalf\u00a0of\u00a0each",
+        "Section 13.1 (Confidential Treatment).  Network Affiliate agrees to be included in any compliance reporting NCM provides to its advertisers and",
+        "format agreed by the Parties, at such times as are consistent with Network Affiliate \u2019s internal reporting systems but in any event at least weekly;",
+        "(b)\u00a0Network\u00a0shall\u00a0submit\u00a0to\u00a0Affiliate,\u00a0within\u00a0forty-five\u00a0(45)\u00a0days\u00a0of\u00a0the\u00a0end\u00a0of\u00a0each\u00a0 calendar\u00a0quarter\u00a0during\u00a0the\u00a0Term,\u00a0a\u00a0statement",
+        "Network Affiliate is secure and not accessible by authorized third parties."
+      ],
+      "top_scores": [
+        25.059368133544922,
+        23.811391830444336,
+        21.44997787475586,
+        19.81292724609375,
+        19.522762298583984
+      ],
+      "best_chunk": "(c)\u00a0Affiliate\u00a0shall\u00a0submit\u00a0to\u00a0Network,\u00a0within\u00a0forty-five\u00a0(45)\u00a0days\u00a0of\u00a0the\u00a0end\u00a0of\u00a0each\u00a0calendar\u00a0 quarter,\u00a0a\u00a0report\u00a0on\u00a0behalf\u00a0of\u00a0each",
+      "best_score": 25.059368133544922,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What law applies to taxes allocation between parties?",
+      "context_chunk": "13.(k) Taxes. Network shall not be liable for\u2026 any\u2026 taxes\u2026 based upon revenues derived by operations of Affiliate\u2026 Neither Affiliate nor Station shall be liable for\u2026 taxes\u2026 based upon revenues\u2026 of Network.",
+      "top_chunks": [
+        "operation of law by either party be deemed an assignment hereunder. Any failure or delay in  exercising, or any single or",
+        "the\u00a0Stations)\u00a0and\u00a0their\u00a0permitted\u00a0assigns,\u00a0and\u00a0no\u00a0third\u00a0party\u00a0shall\u00a0 be\u00a0a\u00a0beneficiary\u00a0of,\u00a0or\u00a0have\u00a0any\u00a0rights\u00a0by\u00a0virtue\u00a0of,\u00a0this\u00a0Agreement.",
+        "shall not be assignable by either party unless the assignee expressly assumes in writing the obligations of the assignor hereunder.  Any attempted",
+        "applicable law and the remainder of this Agreement.  The application of any term or provision restated pursuant hereto to persons, property, or",
+        "of\u00a0the\u00a0parties\u00a0hereto,\u00a0except\u00a0 that\u00a0neither\u00a0this\u00a0Agreement\u00a0nor\u00a0either\u00a0party\u2019s\u00a0rights\u00a0or\u00a0obligations\u00a0hereunder\u00a0shall\u00a0 be\u00a0assigned\u00a0or\u00a0transferred\u00a0by\u00a0either"
+      ],
+      "top_scores": [
+        10.489727020263672,
+        10.11270523071289,
+        10.008451461791992,
+        9.43868637084961,
+        9.346409797668457
+      ],
+      "best_chunk": "operation of law by either party be deemed an assignment hereunder. Any failure or delay in  exercising, or any single or",
+      "best_score": 10.489727020263672,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the Effective Date for the Union Dental Business Affiliate Agreement?",
+      "context_chunk": "This Business Affiliate Agreement\u2026 dated January 28, 2005, effective as of October 15, 2004\u2026",
+      "top_chunks": [
+        "between Dr. George D. Green  (the \"Business Affiliate\") and UNION DENTAL CORP. , a",
+        "Managing  dental  offices,  whereby  Business  Affiliate  and UDC will  exchange",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005"
+      ],
+      "top_scores": [
+        21.206148147583008,
+        18.05034065246582,
+        16.891380310058594,
+        16.89136505126953,
+        16.89136505126953
+      ],
+      "best_chunk": "between Dr. George D. Green  (the \"Business Affiliate\") and UNION DENTAL CORP. , a",
+      "best_score": 21.206148147583008,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Define Confidential Information under the Union Dental agreement.",
+      "context_chunk": "1. Definitions. A Confidential Information@ shall mean any and all information that a Party may reasonably expect to remain confidential\u2026 or that information that is protected by law.",
+      "top_chunks": [
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "for Federal tax  purposes\u037e  (ii) UNION DENTAL  CORP.,  will not withhold on",
+        "between Dr. George D. Green  (the \"Business Affiliate\") and UNION DENTAL CORP. , a"
+      ],
+      "top_scores": [
+        18.869245529174805,
+        18.869220733642578,
+        18.869220733642578,
+        18.24224853515625,
+        17.679637908935547
+      ],
+      "best_chunk": "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+      "best_score": 18.869245529174805,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Within how many days must a Party report unauthorised disclosures?",
+      "context_chunk": "3.(b) Report to the other Party\u2026 within five (5) days of a Party\u2019s discovery\u2026",
+      "top_chunks": [
+        "XIII, and fails to cure such breach within thirty (30) days after receipt from the terminating party of written notice of the breach.",
+        "b. Report to the other Party, in writing, any use and/or disclosure of",
+        "and only if such party provides prompt prior written notice to the other party of the disclosure, and (ii) subject to the terms and conditions of this",
+        "Receiving Party may not disclose or use the Disclosing Party \u2019s Confidential and Proprietary Information for any reason other",
+        "notice to the other not later than 180 days, nor sooner than 270 days, before the end of the Initial Term.  The parties shall then engage in"
+      ],
+      "top_scores": [
+        18.68181037902832,
+        18.022825241088867,
+        17.684219360351562,
+        17.622201919555664,
+        17.15070915222168
+      ],
+      "best_chunk": "XIII, and fails to cure such breach within thirty (30) days after receipt from the terminating party of written notice of the breach.",
+      "best_score": 18.68181037902832,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What safeguards obligation exists for Confidential Information?",
+      "context_chunk": "3.(c) Use appropriate safeguards to maintain the security of the Confidential Information\u2026",
+      "top_chunks": [
+        "confidentiality and non -disclosure agreements protecting the confidentiality of the Confidential Information at least to the same extent as such",
+        "22.\u201cMA\u201d's\u00a0Obligations.  MA will make no use of Confidential Information for any",
+        "as it uses to protect its own confidential information of like importance, but in no event",
+        "information is protected under this Agreement.  Any duplication, use, disclosure, or other act or omission by any person or entity that obtains",
+        "in a fashion that maximizes protection of the Confidential Information from further"
+      ],
+      "top_scores": [
+        28.65886878967285,
+        26.001766204833984,
+        22.518449783325195,
+        22.194934844970703,
+        21.783079147338867
+      ],
+      "best_chunk": "confidentiality and non -disclosure agreements protecting the confidentiality of the Confidential Information at least to the same extent as such",
+      "best_score": 28.65886878967285,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "In how many days must a Party make relevant records available for verification?",
+      "context_chunk": "3.(e) Make available\u2026 within ten (10) days\u2026 for the purpose of enabling\u2026 verify\u2026 compliance\u2026",
+      "top_chunks": [
+        "to verify the accuracy of the other party's",
+        "verification of on -screen performance (including written confirmation of on -screen image and audio clarity).  More detailed quality audits may be",
+        "request,  for the purpose of  enabling a Party to verify the other  Party=s",
+        "then-current\u00a0calendar\u00a0year\u00a0solely\u00a0to\u00a0the\u00a0extent\u00a0reasonably\u00a0 necessary\u00a0to\u00a0verify\u00a0the\u00a0Revenue\u00a0Share\u00a0Records.",
+        "Exhibit\u00a0D\u00a0(collectively,\u00a0the\u00a0\u201c Revenue\u00a0 Share\u00a0Records \u201d).\u00a0Upon\u00a0not\u00a0less\u00a0than\u00a0thirty\u00a0(30)\u00a0days\u2019\u00a0prior\u00a0written\u00a0notice\u00a0and\u00a0not\u00a0more\u00a0than"
+      ],
+      "top_scores": [
+        21.55765151977539,
+        19.431243896484375,
+        16.72130012512207,
+        16.458330154418945,
+        15.918619155883789
+      ],
+      "best_chunk": "to verify the accuracy of the other party's",
+      "best_score": 21.55765151977539,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "By when must Confidential Information be returned or destroyed after termination?",
+      "context_chunk": "3.(g) Return to a Party or destroy\u2026 within fifteen (15) days of the termination\u2026",
+      "top_chunks": [
+        "fifteen (15) days of the  termination of this Agreement,  any  Confidential",
+        "5.02     TERMINATION.  Agreement  may  be  terminated prior to the conclusion of",
+        "7.3.\u00a0At time of Agreement termination, Marketing Affiliate shall immediately remove all  URL related data pertaining to said",
+        "notice\u00a0of\u00a0termination.\u00a0At\u00a0the\u00a0time\u00a0of\u00a0termination,\u00a0any\u00a0links\u00a0to\u00a0Chase\u2019s\u00a0Website\u00a0must\u00a0be\u00a0removed\u00a0immediately.\u00a0Affiliate\u00a0will\u00a0continue\u00a0to\u00a0receive",
+        "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination"
+      ],
+      "top_scores": [
+        32.6945915222168,
+        31.297531127929688,
+        31.202777862548828,
+        30.88587188720703,
+        29.87690544128418
+      ],
+      "best_chunk": "fifteen (15) days of the  termination of this Agreement,  any  Confidential",
+      "best_score": 32.6945915222168,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the notice period to terminate the Union Dental agreement without cause?",
+      "context_chunk": "5.(a) Term\u2026 shall continue\u2026 until either Party informs the other Party with thirty (30) day prior written notice\u2026",
+      "top_chunks": [
+        "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination",
+        "Section 8.3  Termination by NCM . NCM may terminate this Agreement upon thirty (30) days written notice to Network Affiliate in the",
+        "terminate\u00a0this\u00a0Agreement\u00a0and\u00a0all\u00a0other\u00a0 affiliates\u2019\u00a0agreements\u00a0on\u00a0at\u00a0least\u00a0ninety\u00a0(90)\u00a0days\u2019\u00a0prior\u00a0notice\u00a0without\u00a0any\u00a0 liability\u00a0therefor\u00a0to\u00a0Affiliate,\u00a0other",
+        "7.2.\u00a0This Agreement may be terminated by either party with cause upon thirty (30) days  written notice. Upon Marketing",
+        "5.02     TERMINATION.  Agreement  may  be  terminated prior to the conclusion of"
+      ],
+      "top_scores": [
+        35.53155517578125,
+        35.40028762817383,
+        34.75883483886719,
+        33.66972351074219,
+        33.619720458984375
+      ],
+      "best_chunk": "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination",
+      "best_score": 35.53155517578125,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Can UDC immediately terminate for a material breach?",
+      "context_chunk": "5.(b) Termination. UDC may immediately terminate this Agreement without notice\u2026 if\u2026 breached a material provision\u2026",
+      "top_chunks": [
+        "b. Termination.  UDC may immediately  terminate this Agreement without",
+        "to the other under this Agreement shall immediately terminate, and NCM shall be entitled to immediately discontinue the Service.  Notwithstanding",
+        "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Network\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Network\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from\u00a0its",
+        "breach\u00a0by\u00a0a\u00a0Station\u00a0or\u00a0group\u00a0of\u00a0Stations\u00a0during\u00a0the\u00a0 Term,\u00a0then\u00a0Network\u00a0shall\u00a0have\u00a0the\u00a0right\u00a0to\u00a0terminate\u00a0this\u00a0Agreement\u00a0only\u00a0as\u00a0 to\u00a0such\u00a0Station\u00a0or",
+        "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination"
+      ],
+      "top_scores": [
+        45.16914749145508,
+        40.02669143676758,
+        39.37187957763672,
+        36.20521545410156,
+        35.69554138183594
+      ],
+      "best_chunk": "b. Termination.  UDC may immediately  terminate this Agreement without",
+      "best_score": 45.16914749145508,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What indemnification obligation do the Parties have regarding improper disclosures?",
+      "context_chunk": "6. Indemnification. The Parties hereby covenant and agree to indemnify and hold harmless each other\u2026 which arise out of any use or disclosure\u2026 not specifically permitted\u2026",
+      "top_chunks": [
+        "THE INDEMNIFICATION OBLIGATIONS OF THE PARTIES UNDER ARTICLE X, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE",
+        "party\u00a0under\u00a0no\u00a0obligation\u00a0to\u00a0the\u00a0disclosing\u00a0party\u037e\u00a0(iv)\u00a0has\u00a0been\u00a0disclosed\u00a0by\u00a0court\u00a0order\u00a0or\u00a0as\u00a0otherwise\u00a0required\u00a0by\u00a0law\u00a0if\u00a0the\u00a0receiving\u00a0party\u00a0has",
+        "INDEMNIFICATION OBLIGATIONS OF THE PARTIES UNDER ARTICLE X, THE AGGREGATE TOTAL LIABILITY OF EITHER PARTY TO",
+        "(a) Indemnifications Obligations . NCM shall defend, indemnify and hold harmless Network Affiliate and its Representatives",
+        "and shall have exclusive control of the manner and means of performing such  obligations. Each party shall be solely"
+      ],
+      "top_scores": [
+        25.65937614440918,
+        23.836116790771484,
+        22.72062110900879,
+        19.80175018310547,
+        19.108240127563477
+      ],
+      "best_chunk": "THE INDEMNIFICATION OBLIGATIONS OF THE PARTIES UNDER ARTICLE X, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE",
+      "best_score": 25.65937614440918,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Which obligations expressly survive termination under the Union Dental agreement?",
+      "context_chunk": "7.(a) Survival. The respective rights and obligations\u2026 under\u2026 Sections 3(g)\u2026 3(h)\u2026 and 6 shall survive\u2026",
+      "top_chunks": [
+        "obligation\u00a0shall\u00a0survive\u00a0the\u00a0termination\u00a0of\u00a0this\u00a0Agreement\u00a0until\u00a0 Affiliate\u00a0receives\u00a0such\u00a0statement.",
+        "indemnities\u00a0shall\u00a0survive\u00a0the\u00a0termination\u00a0 of\u00a0this\u00a0Agreement,\u00a0regardless\u00a0of\u00a0the\u00a0reason\u00a0for\u00a0such\u00a0termination.",
+        "shall survive the termination of this Agreement indefinitely.",
+        "5.02     TERMINATION.  Agreement  may  be  terminated prior to the conclusion of",
+        "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination"
+      ],
+      "top_scores": [
+        42.761085510253906,
+        38.71663284301758,
+        38.55384063720703,
+        33.857749938964844,
+        31.970003128051758
+      ],
+      "best_chunk": "obligation\u00a0shall\u00a0survive\u00a0the\u00a0termination\u00a0of\u00a0this\u00a0Agreement\u00a0until\u00a0 Affiliate\u00a0receives\u00a0such\u00a0statement.",
+      "best_score": 42.761085510253906,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How must notices be delivered under the Union Dental agreement?",
+      "context_chunk": "7.(d) Notices. All notices\u2026 will be delivered in person or by means of certified or registered mail\u2026 or by telephone facsimile\u2026",
+      "top_chunks": [
+        "notices required to be given in writing must be sent by overnight delivery service to the name and address designated  in this",
+        "Notices\u00a0given\u00a0by\u00a0hand\u00a0delivery\u00a0shall\u00a0be\u00a0deemed\u00a0received\u00a0upon\u00a0delivery\u00a0to\u00a0the\u00a0addressee.\u00a0 Notices\u00a0given\u00a0by\u00a0certified\u00a0mail\u00a0shall\u00a0be",
+        "All  notices  shall  be deemed given when delivered in person or upon depositing",
+        "Any\u00a0notice\u00a0given\u00a0under\u00a0this\u00a0Agreement\u00a0shall\u00a0be\u00a0in\u00a0writing,\u00a0shall\u00a0be\u00a0sent\u00a0postage\u00a0 prepaid\u00a0by\u00a0certified\u00a0mail,\u00a0return\u00a0receipt",
+        "(f)\u00a0Upon\u00a0execution\u00a0of\u00a0this\u00a0Agreement,\u00a0Affiliate\u00a0shall\u00a0promptly\u00a0complete\u00a0and\u00a0deliver\u00a0 to\u00a0Network\u00a0a\u00a0notice\u00a0of\u00a0launch\u00a0(in\u00a0the\u00a0form"
+      ],
+      "top_scores": [
+        23.29227638244629,
+        22.662057876586914,
+        20.360734939575195,
+        17.955244064331055,
+        17.82729721069336
+      ],
+      "best_chunk": "notices required to be given in writing must be sent by overnight delivery service to the name and address designated  in this",
+      "best_score": 23.29227638244629,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the Parties\u2019 relationship under the Union Dental agreement?",
+      "context_chunk": "7.(e) Relationship of the Parties\u2026 the Business Affiliate shall at all times act as an independent contractor\u2026",
+      "top_chunks": [
+        "for Federal tax  purposes\u037e  (ii) UNION DENTAL  CORP.,  will not withhold on",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "(d)\u00a0Relationship .\u00a0Neither\u00a0party\u00a0shall\u00a0be,\u00a0or\u00a0hold\u00a0itself\u00a0out\u00a0as,\u00a0the\u00a0agent\u00a0of\u00a0the\u00a0other\u00a0or\u00a0as\u00a0joint\u00a0 venturers\u00a0under\u00a0this\u00a0Agreement."
+      ],
+      "top_scores": [
+        19.13063621520996,
+        19.008562088012695,
+        19.008527755737305,
+        19.008527755737305,
+        18.479598999023438
+      ],
+      "best_chunk": "for Federal tax  purposes\u037e  (ii) UNION DENTAL  CORP.,  will not withhold on",
+      "best_score": 19.13063621520996,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Who signed the Union Dental agreement and in what capacity?",
+      "context_chunk": "IN WITNESS WHEREOF\u2026 Business Affiliate\u2026 By: /s/ George D. Green\u2026 UNION DENTAL CORP. By: /s/ George D. Green\u2026 Title: CEO and President",
+      "top_chunks": [
+        "agreement in writing signed by the party against whom",
+        "in writing signed by authorized representatives of both parties.",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005",
+        "Source: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005"
+      ],
+      "top_scores": [
+        17.73548126220703,
+        16.635019302368164,
+        16.506195068359375,
+        16.506166458129883,
+        16.506166458129883
+      ],
+      "best_chunk": "agreement in writing signed by the party against whom",
+      "best_score": 17.73548126220703,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is required of workforce members regarding confidentiality obligations?",
+      "context_chunk": "4. Mutual Representation and Warranty. Each Party represents\u2026 members of its work force\u2026 are under legal obligation to comply fully\u2026",
+      "top_chunks": [
+        "22.\u201cMA\u201d's\u00a0Obligations.  MA will make no use of Confidential Information for any",
+        "Agreement, use the Confidential Information of the other party only to the extent necessary to perform its obligations under this Agreement.",
+        "THE INDEMNIFICATION OBLIGATIONS OF THE PARTIES UNDER ARTICLE X, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE",
+        "party\u00a0under\u00a0no\u00a0obligation\u00a0to\u00a0the\u00a0disclosing\u00a0party\u037e\u00a0(iv)\u00a0has\u00a0been\u00a0disclosed\u00a0by\u00a0court\u00a0order\u00a0or\u00a0as\u00a0otherwise\u00a0required\u00a0by\u00a0law\u00a0if\u00a0the\u00a0receiving\u00a0party\u00a0has",
+        "(a) Indemnifications Obligations . NCM shall defend, indemnify and hold harmless Network Affiliate and its Representatives"
+      ],
+      "top_scores": [
+        19.754493713378906,
+        16.51744842529297,
+        15.428804397583008,
+        15.348563194274902,
+        14.577962875366211
+      ],
+      "best_chunk": "22.\u201cMA\u201d's\u00a0Obligations.  MA will make no use of Confidential Information for any",
+      "best_score": 19.754493713378906,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What must each Party require of its subcontractors with access to Confidential Information?",
+      "context_chunk": "3.(d) Require all of its employees, representatives, subcontractors or agents\u2026 to agree in writing to adhere to the same restrictions and conditions\u2026",
+      "top_chunks": [
+        "Information of the other party or disclose or permit the disclosure of such Confidential Information to any person or entity.  Each party shall limit",
+        "the other party in strict confidence, except that each party may:  (i) disclose the Confidential Information of the other party that is required to be",
+        "use, possession, and disclosure of, and shall limit access to, the Confidential Information of the other party only to those of its employees or",
+        "access to or possession of Confidential Information through the receiving party that would be a breach of this Agreement if committed by the",
+        "disclosure  of  Confidential  Information,  each Party  hereby  agrees to do the"
+      ],
+      "top_scores": [
+        27.531055450439453,
+        27.12805938720703,
+        25.361923217773438,
+        25.354503631591797,
+        25.099409103393555
+      ],
+      "best_chunk": "Information of the other party or disclose or permit the disclosure of such Confidential Information to any person or entity.  Each party shall limit",
+      "best_score": 27.531055450439453,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Within what time must information be provided to respond to an individual\u2019s request for accounting?",
+      "context_chunk": "3.(f) Within fifteen (15) days of receiving a written request\u2026 provide\u2026 such information\u2026 for amendment and accounting\u2026",
+      "top_chunks": [
+        "Party to permit the other  Party to  respond  to a request  by the  subject",
+        "f. Within  fifteen  (15) days of  receiving a written  request  from a",
+        "with\u00a0generally\u00a0accepted\u00a0accounting\u00a0 principles\u00a0and\u00a0practices\u00a0that\u00a0shall\u00a0contain\u00a0sufficient\u00a0information\u00a0to\u00a0enable\u00a0 an\u00a0auditor\u00a0to",
+        "request,  for the purpose of  enabling a Party to verify the other  Party=s",
+        "individual for amendment and accounting  purposes of the disclosures of the"
+      ],
+      "top_scores": [
+        21.806339263916016,
+        21.299606323242188,
+        17.433584213256836,
+        16.633392333984375,
+        15.871169090270996
+      ],
+      "best_chunk": "Party to permit the other  Party to  respond  to a request  by the  subject",
+      "best_score": 21.806339263916016,
+      "context_match": true,
+      "first_match_rank": 2
+    },
+    {
+      "question": "What mitigation duty exists after a breach involving Confidential Information?",
+      "context_chunk": "3.(h) Parties agrees to mitigate, to the extent practicable, any harmful effect\u2026 of a use or disclosure\u2026 in violation\u2026",
+      "top_chunks": [
+        "22.\u201cMA\u201d's\u00a0Obligations.  MA will make no use of Confidential Information for any",
+        "confidentiality and non -disclosure agreements protecting the confidentiality of the Confidential Information at least to the same extent as such",
+        "Agreement; (iii) is independently obtained from a third party whose disclosure violates no duty of confidentiality; or (iv) is independently",
+        "access to or possession of Confidential Information through the receiving party that would be a breach of this Agreement if committed by the",
+        "All obligations of the non-breaching party, should cancellation be due to"
+      ],
+      "top_scores": [
+        22.798830032348633,
+        19.895023345947266,
+        19.411775588989258,
+        19.179683685302734,
+        18.64296531677246
+      ],
+      "best_chunk": "22.\u201cMA\u201d's\u00a0Obligations.  MA will make no use of Confidential Information for any",
+      "best_score": 22.798830032348633,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How must a Party inform the other about changes in privacy notices?",
+      "context_chunk": "3.(i) To inform a Party of any changes in the form of notice of privacy practices\u2026 and provide the Party a copy\u2026",
+      "top_chunks": [
+        "i. To inform a Party of any  changes  in the form of notice of privacy",
+        "Either party may change its address for notices by giving written notice of the new address to the other party in accordance with this",
+        "Section 14.1  Notices . All notices, consents, and other communications between the parties under or regarding this Agreement shall be in",
+        "j. To  inform  the Party of any  changes  in, or  withdrawal  of,  the",
+        "and only if such party provides prompt prior written notice to the other party of the disclosure, and (ii) subject to the terms and conditions of this"
+      ],
+      "top_scores": [
+        29.804176330566406,
+        24.409658432006836,
+        23.093732833862305,
+        21.941213607788086,
+        20.85801124572754
+      ],
+      "best_chunk": "i. To inform a Party of any  changes  in the form of notice of privacy",
+      "best_score": 29.804176330566406,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What companies are parties to the Network 1 Affiliate Office Agreement and where are their principal places of business?",
+      "context_chunk": "NETWORK 1 FINANCIAL, INC.\u2026 1501 Farm Credit Drive, Suite 1500, McLean, Virginia\u2026 and Payment Data Systems, Inc.\u2026 12500 San Pedro Suite 120 San Antonio, TX 78216.",
+      "top_chunks": [
+        "businesses  referred  by  Affiliate are a party to a contract with Network 1 and",
+        "Agreement any obligations or benefits to, or rights in, any third party from either NCM or Network Affiliate.  Neither party hereto is granted any",
+        "agency\u00a0relationship\u00a0between\u00a0Affiliate\u00a0and\u00a0Network,\u00a0 and\u00a0neither\u00a0party\u00a0is\u00a0authorized\u00a0to\u00a0or\u00a0shall\u00a0act\u00a0toward\u00a0third\u00a0parties\u00a0or\u00a0the\u00a0 public\u00a0in\u00a0any\u00a0manner",
+        "Section 4.3  Service Level Agreement . Network Affiliate agrees to take all actions during the Term that are within its control and",
+        "Network Affiliate \u2019s ability to contract or enter into any relationship with any Person or entity for any product, service, or otherwise, other than the"
+      ],
+      "top_scores": [
+        31.364797592163086,
+        25.320781707763672,
+        24.698741912841797,
+        24.570959091186523,
+        24.42926025390625
+      ],
+      "best_chunk": "businesses  referred  by  Affiliate are a party to a contract with Network 1 and",
+      "best_score": 31.364797592163086,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What exclusivity applies to Contractors\u2019 processing of merchant applications?",
+      "context_chunk": "1.01 CONTRACTORS\u2026 All such Contractors must process Merchant applications and transactions exclusively through Network 1.",
+      "top_chunks": [
+        "collections,  acts  or omissions of Merchants obtained by Contractors located by",
+        "Merchant  applications  obtained  for  Equipment  and Products sold or leased by",
+        "remain  in  place  in  accordance  with  Section  2.03  (b)   [RETENTION OF CONTRACTORS]   and  2.03  (c).",
+        "process  the  Merchant Transaction. At the Affiliate request, a boarded Merchant",
+        "Network  1  as  set  out  in  Section  2.01   [CONTRACTORS] .  All  such Contractors must process"
+      ],
+      "top_scores": [
+        13.308781623840332,
+        12.740238189697266,
+        12.680145263671875,
+        12.640766143798828,
+        12.546836853027344
+      ],
+      "best_chunk": "collections,  acts  or omissions of Merchants obtained by Contractors located by",
+      "best_score": 13.308781623840332,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Who approves or declines Merchant Agreements submitted by the Affiliate?",
+      "context_chunk": "1.05 NETWORK 1 TO APPROVE ALL MERCHANTS AGREEMENTS\u2026 Bank and Network 1 shall, in its sole discretion, make the final decision\u2026",
+      "top_chunks": [
+        "1.05     NETWORK  1  TO  APPROVE  ALL MERCHANTS AGREEMENTS.  Affiliate agrees to",
+        "submit  all  Merchant  Agreements  procured by Affiliate in accordance with this",
+        "Merchant  Agreements  submitted  by  Affiliate  to  Network 1 in accordance with",
+        "make  the  final  decision  as to whether or not approve or decline any Merchant",
+        "Merchant,  and  (ii)  the  declined Merchant is not accepted for processing by a"
+      ],
+      "top_scores": [
+        32.32274627685547,
+        30.583200454711914,
+        30.25144386291504,
+        28.254337310791016,
+        27.483522415161133
+      ],
+      "best_chunk": "1.05     NETWORK  1  TO  APPROVE  ALL MERCHANTS AGREEMENTS.  Affiliate agrees to",
+      "best_score": 32.32274627685547,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What activities are expressly prohibited regarding factoring or laundering?",
+      "context_chunk": "1.06 RESTRICTED MERCHANTS AND MERCHANT ACTIVITIES. Affiliate shall\u2026 not engage in factoring or laundering or promote the same.",
+      "top_chunks": [
+        "prohibited from:  (i) promoting the grand opening of a Theatre or an Excluded Theatre, provided such promotional activity (x) may occur only for",
+        "\u2022\u00a0Affiliate\u00a0is\u00a0prohibited\u00a0from\u00a0(a)\u00a0installing\u00a0spyware\u00a0on\u00a0another\u00a0person\u2019s\u00a0computer,\u00a0(b)\u00a0causing\u00a0spyware\u00a0to\u00a0be\u00a0installed\u00a0on\u00a0another\u00a0person\u2019s",
+        "In\u00a0addition,\u00a0the\u00a0following\u00a0terms\u00a0are\u00a0prohibited:\u00a0Chase,\u00a0Chase\u00a0bank,\u00a0www.chase.com,\u00a0www.creditcardsatchase.com,\u00a0www.chasecreditcard.com,",
+        "circumstances other than those as to which it is invalid, unenforceable, or prohibited, shall not be affected thereby, and each other term and",
+        "4.01     RESTRICTIONS.  Affiliate shall not, without the express written consent"
+      ],
+      "top_scores": [
+        29.196271896362305,
+        25.87417221069336,
+        23.701223373413086,
+        19.58026885986328,
+        19.409406661987305
+      ],
+      "best_chunk": "prohibited from:  (i) promoting the grand opening of a Theatre or an Excluded Theatre, provided such promotional activity (x) may occur only for",
+      "best_score": 29.196271896362305,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What right of first refusal does Network 1 have regarding offers to acquire Affiliate revenue or company?",
+      "context_chunk": "2.03 (A) RIGHT OF FIRST REFUSAL\u2026 Network 1 shall have the exclusive right of first refusal to purchase\u2026 on the same terms\u2026",
+      "top_chunks": [
+        "price.  Network  1  shall  have the exclusive right of first refusal to purchase",
+        "Network  1 shall be subordinate to the Checkfree first refusal right), Affiliate",
+        "Affiliate\u2019s\u00a0right\u00a0of\u00a0first\u00a0 refusal\u00a0shall\u00a0expire.\u00a0If,\u00a0during\u00a0said\u00a0ninety\u00a0(90)-day\u00a0period,\u00a0Affiliate\u00a0notifies\u00a0 Network\u00a0in\u00a0writing\u00a0of\u00a0its\u00a0desire\u00a0to\u00a0add\u00a0the\u00a0New",
+        "(l)\u00a0Right\u00a0of\u00a0First\u00a0Refusal .\u00a0In\u00a0the\u00a0event\u00a0Network\u00a0decides\u00a0to\u00a0offer\u00a0any\u00a0new\u00a0television\u00a0programming\u00a0channels\u00a0(the\u00a0 \u201cNew\u00a0Channels \u201d),",
+        "case  Network  1  shall be subordinate to the Checkfree first refusal right), or"
+      ],
+      "top_scores": [
+        32.44251251220703,
+        31.679244995117188,
+        29.46249771118164,
+        28.518226623535156,
+        26.06111717224121
+      ],
+      "best_chunk": "price.  Network  1  shall  have the exclusive right of first refusal to purchase",
+      "best_score": 32.44251251220703,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "Under what conditions may the Affiliate transfer merchants away from NET1?",
+      "context_chunk": "2.03 (b) CLIENT shall have the right to withdraw (\u201cTransfer\u201d) Merchants\u2026 provided (i)\u2026 120 days written notice\u2026 (iii) NW1 has waived its rights\u2026 (iv) 18 months\u2026 and (v) Affiliate pays the applicable Exit Fee\u2026",
+      "top_chunks": [
+        "transferred to Network Affiliate as a result of or pursuant to this Agreement.  Further, Network Affiliate acknowledges that its exercise of rights",
+        "case,  Affiliate  shall  have  the right to Transfer accounts in accordance with",
+        "staff expenses shall be paid prior to the Transfer of the Merchants from NET1 or",
+        "assignment  or  Transfer of Merchants and/or its net revenue.  The amount of the",
+        "any  reason, all merchants recruited by Affiliate on behalf of Network 1 for any"
+      ],
+      "top_scores": [
+        18.761159896850586,
+        18.58949089050293,
+        18.571918487548828,
+        18.489665985107422,
+        18.275697708129883
+      ],
+      "best_chunk": "transferred to Network Affiliate as a result of or pursuant to this Agreement.  Further, Network Affiliate acknowledges that its exercise of rights",
+      "best_score": 18.761159896850586,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "How is the Exit Fee calculated and what is the maximum?",
+      "context_chunk": "2.03 (c) The Exit Fee\u2026 equal to eighteen (18) months net recurring revenue\u2026 to a maximum of $250,000.",
+      "top_chunks": [
+        "Exit Fee as defined in section 7.6 (c) below.  NET1 agrees that it shall use its",
+        "addition  to  the  Exit  Fee,  all out of pocket and reasonable reimbursement of",
+        "(c)     The  Exit  Fee  shall  be  paid  by  Affiliate  immediately prior to the",
+        "Exit Fee during and following the termination of this Agreement shall be defined",
+        "\u201cService\u00a0Fee\u201d)\u00a0in\u00a0the\u00a0amount\u00a0equal\u00a0to\u00a0US\u00a0$15,000.00\u00a0on\u00a0the\u00a0first\u00a0day\u00a0of\u00a0each\u00a0quarter\u00a0for\u00a0the\u00a0Term\u00a0of"
+      ],
+      "top_scores": [
+        27.338899612426758,
+        26.98015594482422,
+        26.560762405395508,
+        26.470439910888672,
+        13.051711082458496
+      ],
+      "best_chunk": "Exit Fee as defined in section 7.6 (c) below.  NET1 agrees that it shall use its",
+      "best_score": 27.338899612426758,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "When are Affiliate fees paid each month under the compensation clause?",
+      "context_chunk": "3.02 PAYMENT\u2026 Payments will be made on or before the 25th of each calendar month.",
+      "top_chunks": [
+        "no such Affiliate's Fees shall be earned or paid for any calendar month in which",
+        "2.Payment.\u00a0The\u00a0Affiliate\u00a0Transactional\u00a0Share,\u00a0if\u00a0any,\u00a0shall\u00a0be\u00a0payable\u00a0quarterly\u00a0 and\u00a0shall\u00a0be\u00a0due\u00a0no\u00a0later\u00a0than\u00a0forty-five\u00a0(45)\u00a0days",
+        "2.Payment.\u00a0The\u00a0Affiliate\u00a0Advertising\u00a0Share,\u00a0if\u00a0any,\u00a0shall\u00a0be\u00a0payable\u00a0quarterly\u00a0 and\u00a0shall\u00a0be\u00a0due\u00a0no\u00a0later\u00a0than\u00a0forty-five\u00a0(45)\u00a0days",
+        "Marketing Affiliate agrees to pay promptly and in full all charges incurred through services  rendered when billed.",
+        "Affiliates  fees  shall  cease  to  be  accrued  and  paid  immediately upon the"
+      ],
+      "top_scores": [
+        22.465564727783203,
+        21.429977416992188,
+        20.844934463500977,
+        20.755422592163086,
+        20.439777374267578
+      ],
+      "best_chunk": "no such Affiliate's Fees shall be earned or paid for any calendar month in which",
+      "best_score": 22.465564727783203,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What restrictions exist on the Affiliate\u2019s use of the Network 1 name and marks?",
+      "context_chunk": "4.02 NETWORK 1 NAME USAGE\u2026 use\u2026 on a non-exclusive basis\u2026 cease using\u2026 insignia, logo\u2019s, Service Marks, trademarks and name of Network 1 are the absolute and sole right\u2026",
+      "top_chunks": [
+        "Section 5.2  Software Restrictions . Network Affiliate acknowledges that the Software and any and all components thereof constitute",
+        "that Network Affiliate shall insure that the restrictions and standards, including, without limitations those such as are set forth in",
+        "4.01     RESTRICTIONS.  Affiliate shall not, without the express written consent",
+        "Network Affiliate Marks in connection with the use thereof and to indicate such additional or alternative information as Network Affiliate shall",
+        "and its licensees in their use and exercise of rights with respect to the Network Affiliate Marks, as well as, without limiting the foregoing, such"
+      ],
+      "top_scores": [
+        26.056013107299805,
+        24.752296447753906,
+        24.280460357666016,
+        23.71535301208496,
+        23.28864097595215
+      ],
+      "best_chunk": "Section 5.2  Software Restrictions . Network Affiliate acknowledges that the Software and any and all components thereof constitute",
+      "best_score": 26.056013107299805,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the default initial Term of the Network 1 Affiliate Office Agreement?",
+      "context_chunk": "5.01 TERM. The term\u2026 shall be for one hundred eighty days (180)\u2026 unless Network 1 or Visa or MasterCard or Harris Bank doesn\u2019t approve\u2026 in which case, the Term will be 3 years.",
+      "top_chunks": [
+        "Section 4.3  Service Level Agreement . Network Affiliate agrees to take all actions during the Term that are within its control and",
+        "Network Affiliate \u2019s ability to contract or enter into any relationship with any Person or entity for any product, service, or otherwise, other than the",
+        "of all or substantially all of the assets of Network Affiliate (collectively, a \u201cChange of Control \u201d) shall be deemed an assignment.  This Agreement",
+        "(a) During the Term, except as otherwise provided in this Agreement, Network Affiliate and its affiliates agree not to engage or",
+        "transferred to Network Affiliate as a result of or pursuant to this Agreement.  Further, Network Affiliate acknowledges that its exercise of rights"
+      ],
+      "top_scores": [
+        19.381816864013672,
+        18.40324592590332,
+        18.364673614501953,
+        17.94428253173828,
+        17.847349166870117
+      ],
+      "best_chunk": "Section 4.3  Service Level Agreement . Network Affiliate agrees to take all actions during the Term that are within its control and",
+      "best_score": 19.381816864013672,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "List one cause for termination by Network 1 for cause.",
+      "context_chunk": "5.02 D. By Network 1, for cause\u2026 \u201ccause\u201d shall consist of (i) fraud, intentional misrepresentation or negligence by Affiliate\u2026",
+      "top_chunks": [
+        "end\u00a0of\u00a0a\u00a0calendar\u00a0quarter,\u00a0Network\u00a0shall\u00a0supply\u00a0such\u00a0 statement\u00a0as\u00a0of\u00a0the\u00a0date\u00a0of\u00a0termination,\u00a0within\u00a0forty-five\u00a0(45)\u00a0days\u00a0thereafter,\u00a0 and\u00a0this",
+        "Section 8.3  Termination by NCM . NCM may terminate this Agreement upon thirty (30) days written notice to Network Affiliate in the",
+        "notice\u00a0of\u00a0termination.\u00a0At\u00a0the\u00a0time\u00a0of\u00a0termination,\u00a0any\u00a0links\u00a0to\u00a0Chase\u2019s\u00a0Website\u00a0must\u00a0be\u00a0removed\u00a0immediately.\u00a0Affiliate\u00a0will\u00a0continue\u00a0to\u00a0receive",
+        "b. Termination.  UDC may immediately  terminate this Agreement without",
+        "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Network\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Network\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from\u00a0its"
+      ],
+      "top_scores": [
+        43.527313232421875,
+        40.967105865478516,
+        39.93798828125,
+        38.39118957519531,
+        38.38565444946289
+      ],
+      "best_chunk": "end\u00a0of\u00a0a\u00a0calendar\u00a0quarter,\u00a0Network\u00a0shall\u00a0supply\u00a0such\u00a0 statement\u00a0as\u00a0of\u00a0the\u00a0date\u00a0of\u00a0termination,\u00a0within\u00a0forty-five\u00a0(45)\u00a0days\u00a0thereafter,\u00a0 and\u00a0this",
+      "best_score": 43.527313232421875,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What arbitration venue applies to disputes by Payment Data Systems vs by Network 1?",
+      "context_chunk": "8.05 GOVERNING LAW\u2026 Payment Data Systems\u2026 arbitration in McLean, Virginia\u2026 All disputes or claims by NETWORK 1\u2026 in San Antonio, Texas\u2026",
+      "top_chunks": [
+        "8.06     ARBITRATION.  All  disputes  or  claims  hereunder shall be resolved by",
+        "2.\u00a0Disputes.  In the case of disputed charge, defined as a non -payment of an invoice for which  notice of dispute has been",
+        "rules of the American Arbitration Association. All disputes or claims by NETWORK",
+        "the hearing. The arbitration award shall be final and binding on both  parties.",
+        "arbitrator(s) shall schedule the arbitration hearing to commence on a mutually convenient  date. The hearing shall commence"
+      ],
+      "top_scores": [
+        18.56460189819336,
+        17.794532775878906,
+        16.16872787475586,
+        15.708745956420898,
+        13.696816444396973
+      ],
+      "best_chunk": "8.06     ARBITRATION.  All  disputes  or  claims  hereunder shall be resolved by",
+      "best_score": 18.56460189819336,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What independent-contractor statement is included regarding work conduct?",
+      "context_chunk": "6.02 MANNER & MEANS OF WORK CONDUCT. You decide when and where, as well as the manner and means by which you conduct your work activities.",
+      "top_chunks": [
+        "accept  the  responsibilities placed on an independent contractor by federal and",
+        "other, and independent contractors as to all work performed",
+        "a  position  contrary to your status as an independent contractor.  YOU agree to",
+        "consideration. The Parties shall operate as Independent  Contractors in performing their obligations under the Agreement",
+        "MA shall be deemed to be an independent contractor in its relationship with Company. MA"
+      ],
+      "top_scores": [
+        22.133621215820312,
+        20.791948318481445,
+        20.0158748626709,
+        19.999126434326172,
+        19.791152954101562
+      ],
+      "best_chunk": "accept  the  responsibilities placed on an independent contractor by federal and",
+      "best_score": 22.133621215820312,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Who bears taxes and business expenses for the Affiliate?",
+      "context_chunk": "6.03 BUSINESS RESPONSIBILITY. You shall be responsible for and pay all expenses\u2026 and shall pay all taxes\u2026 related to carrying out your obligations\u2026",
+      "top_chunks": [
+        "behalf  of  Business  Affiliate  any  sums  for  income  tax,  unemployment",
+        "the  Affiliate's  Fee  does not exceed $500.  Upon termination due to an uncured",
+        "Affiliate\u00a0can\u00a0reasonably\u00a0provide\u00a0without\u00a0incurring\u00a0any\u00a0additional\u00a0expense.\u00a0 Network\u00a0shall,\u00a0promptly\u00a0following\u00a0receipt,\u00a0provide\u00a0the\u00a0full\u00a0results\u00a0of\u00a0any",
+        "once\u00a0in\u00a0any\u00a0calendar\u00a0year,\u00a0Affiliate\u00a0shall\u00a0have\u00a0the\u00a0right,\u00a0at\u00a0its\u00a0sole\u00a0cost\u00a0and\u00a0expense,\u00a0 during\u00a0the\u00a0Term\u00a0and\u00a0for\u00a0one\u00a0(1)\u00a0year",
+        "Affiliate, to resume performance of some or all of the suspended obligations."
+      ],
+      "top_scores": [
+        16.14252471923828,
+        16.130373001098633,
+        15.649580955505371,
+        15.564128875732422,
+        15.039215087890625
+      ],
+      "best_chunk": "behalf  of  Business  Affiliate  any  sums  for  income  tax,  unemployment",
+      "best_score": 16.14252471923828,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What indemnity does Affiliate give to Network 1 and card schemes?",
+      "context_chunk": "7.01 AFFILIATE. Affiliate hereby agrees to indemnify and hold harmless Network 1, VISA, MasterCard and the Member Bank\u2026",
+      "top_chunks": [
+        "Network Affiliate is secure and not accessible by authorized third parties.",
+        "(c)\u00a0Affiliate\u00a0further\u00a0represents,\u00a0warrants\u00a0and\u00a0covenants\u00a0to\u00a0Network\u00a0that\u00a0(i)\u00a0it\u00a0has\u00a0the\u00a0power\u00a0 and\u00a0authority\u00a0to\u00a0cause\u00a0each\u00a0Station,",
+        "Network Affiliate \u2019s ability to contract or enter into any relationship with any Person or entity for any product, service, or otherwise, other than the",
+        "(a)\u00a0Network\u00a0and\u00a0Affiliate\u00a0each\u00a0represents\u00a0and\u00a0warrants\u00a0to\u00a0the\u00a0other\u00a0that\u00a0(i)\u00a0 it\u00a0is\u00a0duly\u00a0organized,\u00a0validly\u00a0existing\u00a0and\u00a0in\u00a0good",
+        "Network 1's approval policy.  Affiliate acknowledges that approval of a Merchant"
+      ],
+      "top_scores": [
+        21.307767868041992,
+        20.62415885925293,
+        20.508726119995117,
+        20.24632453918457,
+        20.070783615112305
+      ],
+      "best_chunk": "Network Affiliate is secure and not accessible by authorized third parties.",
+      "best_score": 21.307767868041992,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What is the notice method permitted for communications under the Network 1 agreement?",
+      "context_chunk": "8.01 NOTICES. All notices required hereunder shall be in writing and delivered in person, by e-mail, facsimile, Federal Express, UPS, or by certified or registered mail\u2026",
+      "top_chunks": [
+        "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Network\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Network\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from\u00a0its",
+        "Section 14.1  Notices . All notices, consents, and other communications between the parties under or regarding this Agreement shall be in",
+        "between\u00a0or\u00a0among\u00a0Network\u00a0and\u00a0any\u00a0one\u00a0or\u00a0more\u00a0 third\u00a0parties\u00a0applicable\u00a0to\u00a0such\u00a0Station\u00a0for\u00a0the\u00a0transmission\u00a0of\u00a0the\u00a0Service\u00a0 shall\u00a0terminate\u00a0and",
+        "Agreement  to  Network 1.  Network 1 agrees to review and approve or decline all",
+        "(a)\u00a0During\u00a0the\u00a0Term,\u00a0Network,\u00a0at\u00a0its\u00a0expense,\u00a0shall\u00a0deliver\u00a0a\u00a024\u00a0hours\u00a0per\u00a0day,\u00a0 7\u00a0days\u00a0per\u00a0week\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0by"
+      ],
+      "top_scores": [
+        24.998199462890625,
+        24.507070541381836,
+        23.199270248413086,
+        22.031536102294922,
+        20.99441146850586
+      ],
+      "best_chunk": "prior\u00a0notice,\u00a0terminate\u00a0this\u00a0 Agreement\u00a0if\u00a0Network\u00a0is\u00a0in\u00a0material\u00a0breach\u00a0of\u00a0this\u00a0Agreement,\u00a0provided\u00a0that\u00a0 Network\u00a0shall\u00a0have\u00a0thirty\u00a0(30)\u00a0days\u00a0from\u00a0its",
+      "best_score": 24.998199462890625,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What services does Equidata provide under the definition of Services?",
+      "context_chunk": "1. Equidata provides certain personal credit, fraud detection, credit scoring services and credit monitoring for consumers, the (\u201cServices\u201d).",
+      "top_chunks": [
+        "1.\u00a0Equidata provides certain personal credit, fraud detection, credit scoring services and  credit monitoring for consumers, the",
+        "Equidata, as compensation for its  providing of Services under this agreement, such amounts as outlined and detailed in",
+        "8.4.\u00a0Equidata warrants that it is an authorized provider of the Services as outlined in  this Agreement and that it has the",
+        "Equidata reserves the right to increase the base cost of Services. Notice will be given to  Marketing Affiliate in writing",
+        "PERMISSION PROVIDED BY EQUIDATA UNDER THIS AGREEMENT IS PROVIDED ON AN \u201cAS IS\u201d\u00a0BASIS. EQUIDATA"
+      ],
+      "top_scores": [
+        11.35288143157959,
+        9.949260711669922,
+        7.382287979125977,
+        6.690572738647461,
+        6.682676315307617
+      ],
+      "best_chunk": "1.\u00a0Equidata provides certain personal credit, fraud detection, credit scoring services and  credit monitoring for consumers, the",
+      "best_score": 11.35288143157959,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "Is Marketing Affiliate allowed to market competing products on pages with Equidata links?",
+      "context_chunk": "4. Non-solicitation of Clients\u2026 Further, Marketing Affiliate shall not market similar products from competing companies on any Web Site Landing Page containing the Equidata or Marketing Affiliate Web link\u2026",
+      "top_chunks": [
+        "Affiliate shall not market  similar products from competing companies on any Web Site Landing Page containing the Equidata",
+        "Local\u00a0Advertising.\u00a0Affiliate\u00a0agrees\u00a0not\u00a0to\u00a0sell\u00a0commercial\u00a0time\u00a0to\u00a0or\u00a0for\u00a0 the\u00a0benefit\u00a0of\u00a0direct\u00a0competitors\u00a0of\u00a0the\u00a0Service\u00a0( e.g.,\u00a0music\u00a0video\u00a0networks",
+        "or Marketing Affiliate Web link as long as this Agreement is in effect.",
+        "THE MARKETING  AFFILIATE WEB SITE, OR (C) MARKETING AFFILIATE \u2019S BUSINESS.",
+        "Affiliate Web Site to Fquidata (and  its partners) Web Site. Marketing Materials may also be used in the marketing of potential"
+      ],
+      "top_scores": [
+        35.193756103515625,
+        27.910076141357422,
+        26.187063217163086,
+        24.49171257019043,
+        24.087730407714844
+      ],
+      "best_chunk": "Affiliate shall not market  similar products from competing companies on any Web Site Landing Page containing the Equidata",
+      "best_score": 35.193756103515625,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What happens to URL-related data on termination of the Equidata agreement?",
+      "context_chunk": "7.3. At time of Agreement termination, Marketing Affiliate shall immediately remove all URL related data\u2026 Equidata reserves the right to use all available legal resources to force the removal\u2026",
+      "top_chunks": [
+        "7.3.\u00a0At time of Agreement termination, Marketing Affiliate shall immediately remove all  URL related data pertaining to said",
+        "7.4.\u00a0Equidata reserves the right to terminate this Agreement immediately for cause if  Experian, Equifax and/or TransUnion",
+        "5.02     TERMINATION.  Agreement  may  be  terminated prior to the conclusion of",
+        "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination",
+        "the termination or cancellation date of this Agreement;"
+      ],
+      "top_scores": [
+        34.66781997680664,
+        30.853975296020508,
+        30.232534408569336,
+        29.700620651245117,
+        28.875402450561523
+      ],
+      "best_chunk": "7.3.\u00a0At time of Agreement termination, Marketing Affiliate shall immediately remove all  URL related data pertaining to said",
+      "best_score": 34.66781997680664,
+      "context_match": true,
+      "first_match_rank": 1
+    },
+    {
+      "question": "What is explicitly excluded from Equidata\u2019s liability?",
+      "context_chunk": "11. Liability\u2026 IN NO EVENT WILL EQUIDATA BE LIABLE FOR ANY INDIRECT, EXEMPLARY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES\u2026",
+      "top_chunks": [
+        "(1) The parties exclude mutual liability for slightly negligent violation",
+        "exclusion also applies to the personal liability of employees,",
+        "Excluded Theatres will be subject to the exclusivity obligations of Network Affiliate, as set forth in Section 6.1, to the same extent as a Theatre",
+        "excluded for the consequences of such interruptions or errors.",
+        "16 and \u00a7 5 (3) of this agreement. This includes in particular the liability"
+      ],
+      "top_scores": [
+        22.18779754638672,
+        21.717544555664062,
+        18.666364669799805,
+        16.871963500976562,
+        16.451404571533203
+      ],
+      "best_chunk": "(1) The parties exclude mutual liability for slightly negligent violation",
+      "best_score": 22.18779754638672,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What must Affiliate do regarding telemarketing scripts?",
+      "context_chunk": "5.4. Uses Marketing Materials, media or methods that are not approved, including, but nor limited to telemarketing scripts.",
+      "top_chunks": [
+        "Affiliate, to resume performance of some or all of the suspended obligations.",
+        "(c)\u00a0Affiliate\u00a0further\u00a0represents,\u00a0warrants\u00a0and\u00a0covenants\u00a0to\u00a0Network\u00a0that\u00a0(i)\u00a0it\u00a0has\u00a0the\u00a0power\u00a0 and\u00a0authority\u00a0to\u00a0cause\u00a0each\u00a0Station,",
+        "Affiliate\u00a0is\u00a0solely\u00a0responsible\u00a0for\u00a0ensuring\u00a0that\u00a0its\u00a0reviews\u00a0and\u00a0articles\u00a0obey\u00a0all\u00a0applicable\u00a0copyright\u00a0and\u00a0other\u00a0laws.\u00a0Generally,\u00a0Affiliate\u00a0must\u00a0have",
+        "Affiliate is obligated to undertake all of the technical measures necessary",
+        "telephone lines and the like, will be borne exclusively by Network Affiliate."
+      ],
+      "top_scores": [
+        13.053356170654297,
+        12.780679702758789,
+        12.608063697814941,
+        12.421283721923828,
+        12.287023544311523
+      ],
+      "best_chunk": "Affiliate, to resume performance of some or all of the suspended obligations.",
+      "best_score": 13.053356170654297,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What DMA-based exclusivity is granted to Affiliate to broadcast The TUBE?",
+      "context_chunk": "3.(a) Network hereby grants to Affiliate the exclusive right via Broadcast Television\u2026 for receipt by TV Households in the DMA\u2026",
+      "top_chunks": [
+        "right\u00a0to\u00a0determine\u00a0which\u00a0of\u00a0its\u00a0 Stations\u00a0in\u00a0such\u00a0DMA\u00a0shall\u00a0broadcast\u00a0the\u00a0Service\u037e\u00a0it\u00a0being\u00a0understood\u00a0that\u00a0 Affiliate\u00a0shall\u00a0have\u00a0no\u00a0obligation\u00a0to",
+        "(a)\u00a0Network\u00a0hereby\u00a0grants\u00a0to\u00a0Affiliate\u00a0the\u00a0exclusive\u00a0right\u00a0via\u00a0Broadcast\u00a0 Television,\u00a0 and\u00a0Affiliate\u00a0hereby\u00a0accepts\u00a0such\u00a0exclusive",
+        "(c)\u00a0Preemption .\u00a0Affiliate\u00a0shall\u00a0retain\u00a0the\u00a0right\u00a0to\u00a0elect\u00a0not\u00a0to\u00a0transmit\u00a0any\u00a0programming\u00a0on\u00a0 the\u00a0Service\u00a0over\u00a0the\u00a0broadcast\u00a0facilities",
+        "system\u00a0if\u00a0such\u00a0station\u00a0has\u00a0exclusive\u00a0rights\u00a0to\u00a0broadcast\u00a0 the\u00a0Service\u00a0in\u00a0such\u00a0DMA.\u00a0Network\u00a0shall\u00a0provide\u00a0Affiliate\u00a0with\u00a0at\u00a0least\u00a045\u00a0 days\u2019\u00a0advance",
+        "written\u00a0notice\u00a0of\u00a0such\u00a0Broadcast\u00a0Television\u2019s\u00a0station\u2019s\u00a0initial\u00a0 over-the-air\u00a0transmission\u00a0of\u00a0the\u00a0Service\u00a0and\u00a0Affiliate\u00a0shall\u00a0provide\u00a0such\u00a0 notice\u00a0to\u00a0the"
+      ],
+      "top_scores": [
+        28.333953857421875,
+        28.212427139282227,
+        27.25834083557129,
+        25.682741165161133,
+        24.699251174926758
+      ],
+      "best_chunk": "right\u00a0to\u00a0determine\u00a0which\u00a0of\u00a0its\u00a0 Stations\u00a0in\u00a0such\u00a0DMA\u00a0shall\u00a0broadcast\u00a0the\u00a0Service\u037e\u00a0it\u00a0being\u00a0understood\u00a0that\u00a0 Affiliate\u00a0shall\u00a0have\u00a0no\u00a0obligation\u00a0to",
+      "best_score": 28.333953857421875,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What children\u2019s programming compliance is required?",
+      "context_chunk": "4.(d) Children\u2019s Programming\u2026 provide\u2026 Core Children\u2019s Programming\u2026 comply with\u2026 47 C.F.R. \u00a773.670\u2026",
+      "top_chunks": [
+        "\u00a773.671(c),\u00a0as\u00a0the\u00a0same\u00a0may\u00a0be\u00a0amended\u00a0 from\u00a0time\u00a0to\u00a0time\u00a0(\u201c Core\u00a0Children\u2019s\u00a0Programming \u201d),\u00a0and\u00a0will\u00a0comply\u00a0with\u00a0related",
+        "children\u00a012\u00a0years\u00a0 old\u00a0or\u00a0younger,\u00a0as\u00a0provided\u00a0by\u00a0Network,\u00a0complied\u00a0with\u00a0the\u00a0FCC\u2019s\u00a0rules.\u00a0Network\u00a0will\u00a0 provide\u00a0copies\u00a0of\u00a0program",
+        "requirements\u00a0of\u00a0the\u00a0definition\u00a0of\u00a0\u201cCore\u00a0Programming\u201d\u00a0in\u00a0 order\u00a0to\u00a0enable\u00a0Affiliate\u00a0to\u00a0comply\u00a0with\u00a0the\u00a0\u201csafe\u00a0harbor\u201d\u00a0established\u00a0by",
+        "Programming\u00a0planned\u00a0for\u00a0the\u00a0following\u00a0 calendar\u00a0quarter,\u00a0together\u00a0with\u00a0a\u00a0certification\u00a0indicating\u00a0the\u00a0amount\u00a0of\u00a0Core\u00a0 Children\u2019s",
+        "(ii)\u00a0Network\u00a0represents\u00a0and\u00a0warrants\u00a0that\u00a0if\u00a0it\u00a0supplies\u00a0to\u00a0Affiliate\u00a0any\u00a0programming\u00a0 produced\u00a0primarily\u00a0for\u00a0children\u00a012\u00a0years\u00a0old"
+      ],
+      "top_scores": [
+        25.85884666442871,
+        21.98809051513672,
+        21.32584571838379,
+        20.450990676879883,
+        16.8502140045166
+      ],
+      "best_chunk": "\u00a773.671(c),\u00a0as\u00a0the\u00a0same\u00a0may\u00a0be\u00a0amended\u00a0 from\u00a0time\u00a0to\u00a0time\u00a0(\u201c Core\u00a0Children\u2019s\u00a0Programming \u201d),\u00a0and\u00a0will\u00a0comply\u00a0with\u00a0related",
+      "best_score": 25.85884666442871,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What must Network provide regarding program service information?",
+      "context_chunk": "4.(f) Program Service Information. Network must provide\u2026 a program schedule\u2026",
+      "top_chunks": [
+        "(f)\u00a0Program\u00a0Service\u00a0Information .\u00a0Network\u00a0must\u00a0provide\u00a0to\u00a0a\u00a0reputable\u00a0program\u00a0information\u00a0services\u00a0entity\u00a0a\u00a0program\u00a0 schedule\u00a0for",
+        "(i)\u00a0Network\u00a0will\u00a0provide\u00a0as\u00a0part\u00a0of\u00a0the\u00a0Service\u00a0the\u00a0minimum\u00a0number\u00a0of\u00a0hours\u00a0of\u00a0\u201cCore\u00a0 Programming,\u201d\u00a0as\u00a0defined\u00a0in\u00a047\u00a0C.F.R.",
+        "condition and repair. \u00a0Network Affiliate shall provide NCM and/or its subcontractor \u2019s access to the Equipment and such other support services as",
+        "any  services  provided by Network 1 may be purchased from Network 1.  Network 1",
+        "(g)\u00a0Closed\u00a0Captioning\u037e\u00a0Program\u00a0Ratings .\u00a0Network\u00a0shall\u00a0provide\u00a0full-time\u00a0closed\u00a0captioning\u00a0for\u00a0the\u00a0Service\u00a0in\u00a0all\u00a0programming\u00a0 and"
+      ],
+      "top_scores": [
+        18.417057037353516,
+        14.562209129333496,
+        13.057470321655273,
+        12.991839408874512,
+        12.881278991699219
+      ],
+      "best_chunk": "(f)\u00a0Program\u00a0Service\u00a0Information .\u00a0Network\u00a0must\u00a0provide\u00a0to\u00a0a\u00a0reputable\u00a0program\u00a0information\u00a0services\u00a0entity\u00a0a\u00a0program\u00a0 schedule\u00a0for",
+      "best_score": 18.417057037353516,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What constitutes the Affiliate Transactional Share?",
+      "context_chunk": "Exhibit D\u2026 II. Affiliate Transactional Share\u2026 means fifteen percent (15%) of Network\u2019s Transactional Revenue\u2026",
+      "top_chunks": [
+        "2.Payment.\u00a0The\u00a0Affiliate\u00a0Transactional\u00a0Share,\u00a0if\u00a0any,\u00a0shall\u00a0be\u00a0payable\u00a0quarterly\u00a0 and\u00a0shall\u00a0be\u00a0due\u00a0no\u00a0later\u00a0than\u00a0forty-five\u00a0(45)\u00a0days",
+        "Share,\u00a0the\u00a0Affiliate\u00a0 Transactional\u00a0Share\u00a0and\u00a0the\u00a0accuracy\u00a0of\u00a0the\u00a0amounts\u00a0paid\u00a0by\u00a0Network\u00a0to\u00a0Affiliate\u00a0 hereunder,\u00a0including\u00a0under",
+        "1.Determining\u00a0 Affiliate\u00a0Transactional\u00a0Share .\u00a0Commencing\u00a0with\u00a0the\u00a0calendar\u00a0quarter\u00a0beginning\u00a0on\u00a0April\u00a01,\u00a02006\u00a0and\u00a0 for\u00a0each",
+        "and\u00a0(ii)\u00a0the\u00a0Affiliate\u00a0 Transactional\u00a0Share,\u00a0each\u00a0as\u00a0provided\u00a0in\u00a0 Exhibit\u00a0D.",
+        "calendar\u00a0quarter\u00a0thereafter\u00a0during\u00a0the\u00a0Term,\u00a0Network\u00a0shall\u00a0pay\u00a0 to\u00a0Affiliate\u00a0the\u00a0Affiliate\u00a0Transactional\u00a0Share.\u00a0For\u00a0purposes\u00a0hereof,"
+      ],
+      "top_scores": [
+        26.185998916625977,
+        25.876665115356445,
+        24.39399528503418,
+        24.279924392700195,
+        22.90951156616211
+      ],
+      "best_chunk": "2.Payment.\u00a0The\u00a0Affiliate\u00a0Transactional\u00a0Share,\u00a0if\u00a0any,\u00a0shall\u00a0be\u00a0payable\u00a0quarterly\u00a0 and\u00a0shall\u00a0be\u00a0due\u00a0no\u00a0later\u00a0than\u00a0forty-five\u00a0(45)\u00a0days",
+      "best_score": 26.185998916625977,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What happens if Network changes satellite or encryption and equipment becomes unsuitable?",
+      "context_chunk": "5.(b)\u2026 If Network changes the satellite, transponder or encryption method\u2026 Network agrees to furnish and install\u2026 receiving equipment\u2026 without regard to the Equipment Reimbursement Cap\u2026",
+      "top_chunks": [
+        "Equipment\u00a0to\u00a0receive\u00a0 the\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0from\u00a0its\u00a0initial\u00a0satellite\u00a0and\u00a0transponder\u00a0without\u00a0 interruption\u00a0during\u00a0the\u00a0Term.\u00a0If\u00a0Network\u00a0changes\u00a0the",
+        "satellite,\u00a0transponder\u00a0 or\u00a0encryption\u00a0method\u00a0used\u00a0to\u00a0transmit\u00a0the\u00a0Service\u00a0and\u00a0if\u00a0the\u00a0Receiving\u00a0Equipment\u00a0 or\u00a0other\u00a0existing\u00a0equipment\u00a0will\u00a0not\u00a0be",
+        "necessary\u00a0by\u00a0a\u00a0satellite,\u00a0transponder\u00a0or\u00a0encryption\u00a0method\u00a0change,\u00a0which\u00a0 equipment\u00a0may\u00a0be\u00a0used\u00a0to\u00a0receive\u00a0the\u00a0signals\u00a0of\u00a0other\u00a0television",
+        "suitable\u00a0for\u00a0receiving\u00a0the\u00a0Service\u00a0after\u00a0 the\u00a0changes\u00a0are\u00a0implemented,\u00a0with\u00a0respect\u00a0to\u00a0such\u00a0Station(s),\u00a0Network\u00a0agrees\u00a0 to\u00a0furnish\u00a0and\u00a0install\u00a0at\u00a0its",
+        "($3,500.00).\u00a0Affiliate,\u00a0at\u00a0its\u00a0expense,\u00a0shall\u00a0furnish\u00a0all\u00a0other\u00a0equipment\u00a0and\u00a0 facilities\u00a0necessary\u00a0for\u00a0the\u00a0receipt\u00a0of\u00a0the\u00a0satellite\u00a0transmission\u00a0of\u00a0the\u00a0signal"
+      ],
+      "top_scores": [
+        19.168310165405273,
+        17.168180465698242,
+        15.423957824707031,
+        13.9225435256958,
+        13.548678398132324
+      ],
+      "best_chunk": "Equipment\u00a0to\u00a0receive\u00a0 the\u00a0signal\u00a0of\u00a0the\u00a0Service\u00a0from\u00a0its\u00a0initial\u00a0satellite\u00a0and\u00a0transponder\u00a0without\u00a0 interruption\u00a0during\u00a0the\u00a0Term.\u00a0If\u00a0Network\u00a0changes\u00a0the",
+      "best_score": 19.168310165405273,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What must Parties do with Confidential Information held by subcontractors after Union Dental termination?",
+      "context_chunk": "5.(c) Effect of Termination\u2026 This provision shall apply to Confidential Information that is in the possession of subcontractors or agents\u2026",
+      "top_chunks": [
+        "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination",
+        "fifteen (15) days of the  termination of this Agreement,  any  Confidential",
+        "5.02     TERMINATION.  Agreement  may  be  terminated prior to the conclusion of",
+        "notice\u00a0of\u00a0termination.\u00a0At\u00a0the\u00a0time\u00a0of\u00a0termination,\u00a0any\u00a0links\u00a0to\u00a0Chase\u2019s\u00a0Website\u00a0must\u00a0be\u00a0removed\u00a0immediately.\u00a0Affiliate\u00a0will\u00a0continue\u00a0to\u00a0receive",
+        "termination of this Agreement, each party shall pay to the other, within five (5) days after the effective date of such termination, any and all fees"
+      ],
+      "top_scores": [
+        28.487977981567383,
+        27.334535598754883,
+        27.017959594726562,
+        25.827550888061523,
+        25.76412582397461
+      ],
+      "best_chunk": "Section 8.2  Termination by Either Party . Either Party may terminate this Agreement, immediately, by giving written notice of termination",
+      "best_score": 28.487977981567383,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "When are notices deemed given if mailed under the Union Dental agreement?",
+      "context_chunk": "7.(d) Notices\u2026 All such notices will be deemed given\u2026 on the third business day after deposit with the U.S. Postal Service\u2026",
+      "top_chunks": [
+        "Notices\u00a0given\u00a0by\u00a0hand\u00a0delivery\u00a0shall\u00a0be\u00a0deemed\u00a0received\u00a0upon\u00a0delivery\u00a0to\u00a0the\u00a0addressee.\u00a0 Notices\u00a0given\u00a0by\u00a0certified\u00a0mail\u00a0shall\u00a0be",
+        "by mail on the next  business  day.  All such  notices will be deemed given",
+        "Any\u00a0notice\u00a0given\u00a0under\u00a0this\u00a0Agreement\u00a0shall\u00a0be\u00a0in\u00a0writing,\u00a0shall\u00a0be\u00a0sent\u00a0postage\u00a0 prepaid\u00a0by\u00a0certified\u00a0mail,\u00a0return\u00a0receipt",
+        "All  notices  shall  be deemed given when delivered in person or upon depositing",
+        "deemed\u00a0received\u00a0on\u00a0the\u00a0date\u00a0specified\u00a0 on\u00a0the\u00a0return\u00a0receipt.\u00a0Notices\u00a0given\u00a0by\u00a0Federal\u00a0Express\u00a0or\u00a0similar\u00a0overnight\u00a0 delivery\u00a0service\u00a0shall\u00a0be\u00a0deemed"
+      ],
+      "top_scores": [
+        26.121034622192383,
+        22.98516273498535,
+        22.170978546142578,
+        21.62697410583496,
+        21.295289993286133
+      ],
+      "best_chunk": "Notices\u00a0given\u00a0by\u00a0hand\u00a0delivery\u00a0shall\u00a0be\u00a0deemed\u00a0received\u00a0upon\u00a0delivery\u00a0to\u00a0the\u00a0addressee.\u00a0 Notices\u00a0given\u00a0by\u00a0certified\u00a0mail\u00a0shall\u00a0be",
+      "best_score": 26.121034622192383,
+      "context_match": true,
+      "first_match_rank": 2
+    },
+    {
+      "question": "What right do both Parties have if the IRS challenges independent-contractor status?",
+      "context_chunk": "7.(e)\u2026 In the event the Internal Revenue Service\u2026 should question\u2026 independent contractor status\u2026 both\u2026 shall have the right to participate\u2026",
+      "top_chunks": [
+        "or challenge the Business  Affiliate=s  independent  contractor status, the",
+        "consideration. The Parties shall operate as Independent  Contractors in performing their obligations under the Agreement",
+        "accept  the  responsibilities placed on an independent contractor by federal and",
+        "a  position  contrary to your status as an independent contractor.  YOU agree to",
+        "(a) Neither party will at any time, except to the extent necessary to assert or defend its rights under this Agreement:  (i) challenge"
+      ],
+      "top_scores": [
+        31.471424102783203,
+        22.410734176635742,
+        20.584442138671875,
+        18.73615264892578,
+        18.71112632751465
+      ],
+      "best_chunk": "or challenge the Business  Affiliate=s  independent  contractor status, the",
+      "best_score": 31.471424102783203,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What must Local Offices display regarding Network 1 branding?",
+      "context_chunk": "1.02 LOCAL OFFICE\u2026 All Local Offices shall bear signs, emblems and other insignia\u2026 indicating that the office is in fact an office of Network 1\u2026",
+      "top_chunks": [
+        "insignia,  logo's,  Service  Marks,  trademarks  and  name  of Network 1 are the",
+        "cease using Network 1 name, including but not limited to logo(s) and insignia(s)",
+        "(4) any trademark, service mark, logo or other branding of Network Affiliate (or its theatre -operating Affiliates), film studio(s),",
+        "(i) commercial advertising; (ii) promotions for the Network Affiliate brand (including the Branded Slots), Concessions sold and services used by",
+        "\u201cNetwork Affiliate Marks \u201d\u00a0means the trademarks, service marks, logos, slogans and/or designs of Network Affiliate, each as identified"
+      ],
+      "top_scores": [
+        17.367324829101562,
+        16.348934173583984,
+        16.27107810974121,
+        15.026153564453125,
+        14.168841361999512
+      ],
+      "best_chunk": "insignia,  logo's,  Service  Marks,  trademarks  and  name  of Network 1 are the",
+      "best_score": 17.367324829101562,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Who pays equipment costs sold to merchants and at what pricing basis?",
+      "context_chunk": "1.04 PURCHASE AND LEASE OF EQUIPMENT\u2026 Network 1 agrees to sell\u2026 at prices pursuant to a price list established by Network 1\u2026 Affiliate\u2026 guarantees the payments\u2026",
+      "top_chunks": [
+        "Merchant  applications  obtained  for  Equipment  and Products sold or leased by",
+        "of\u00a0goods\u00a0and\u00a0services\u00a0and\u00a0all\u00a0fulfillment\u00a0costs\u00a0associated\u00a0with\u00a0the\u00a0 sale\u00a0of\u00a0such\u00a0goods\u00a0and\u00a0services)\u00a0from\u00a0(i)\u00a0the\u00a0sale\u00a0of\u00a0products\u00a0and\u00a0services\u00a0 by",
+        "staff expenses shall be paid prior to the Transfer of the Merchants from NET1 or",
+        "3.5      Payments: As defined in section 3.3 above, selling parties may",
+        "agrees  to sell such Equipment and Software to Affiliate at prices pursuant to a"
+      ],
+      "top_scores": [
+        19.949214935302734,
+        18.621448516845703,
+        18.078187942504883,
+        16.856523513793945,
+        16.065614700317383
+      ],
+      "best_chunk": "Merchant  applications  obtained  for  Equipment  and Products sold or leased by",
+      "best_score": 19.949214935302734,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "What happens to Affiliate fees upon termination for cause by Network 1?",
+      "context_chunk": "5.02 F\u2026 If this Agreement is terminated for cause, all rights of the Affiliate to future payments\u2026 shall immediately terminate\u2026",
+      "top_chunks": [
+        "or\u00a0in\u00a0its\u00a0entirety\u00a0 pursuant\u00a0to\u00a0Sections\u00a010(a)\u00a0or\u00a0(c),\u00a0Affiliate\u00a0shall,\u00a0within\u00a0thirty\u00a0(30)\u00a0days\u00a0 of\u00a0termination,\u00a0at\u00a0its\u00a0option\u00a0either\u00a0reimburse\u00a0Network\u00a0for\u00a0the",
+        "Section 8.3  Termination by NCM . NCM may terminate this Agreement upon thirty (30) days written notice to Network Affiliate in the",
+        "Section  5.02   [TERMINATION] A, Network 1 shall continue to pay to the Affiliate the Affiliate's",
+        "Network 1 and Affiliate is terminated for any reason, the Contractors located by",
+        "such expiration or termination.  Upon payment of such amount to NCM by Network Affiliate at the time of such expiration or termination, NCM \u2019s"
+      ],
+      "top_scores": [
+        29.693723678588867,
+        29.440202713012695,
+        28.600706100463867,
+        27.0704402923584,
+        27.05036163330078
+      ],
+      "best_chunk": "or\u00a0in\u00a0its\u00a0entirety\u00a0 pursuant\u00a0to\u00a0Sections\u00a010(a)\u00a0or\u00a0(c),\u00a0Affiliate\u00a0shall,\u00a0within\u00a0thirty\u00a0(30)\u00a0days\u00a0 of\u00a0termination,\u00a0at\u00a0its\u00a0option\u00a0either\u00a0reimburse\u00a0Network\u00a0for\u00a0the",
+      "best_score": 29.693723678588867,
+      "context_match": false,
+      "first_match_rank": null
+    },
+    {
+      "question": "Are Affiliate rights to locate Contractors exclusive?",
+      "context_chunk": "8.02 NON-EXCLUSIVITY. Affiliate\u2019s rights to locate Contractors hereunder shall not be exclusive.",
+      "top_chunks": [
+        "Contractor  located  by  Affiliate  in  compiling  or  providing any information",
+        "8.02     NON-EXCLUSIVITY.  Affiliate's  rights  to  locate Contractors hereunder",
+        "Affiliate  or  Contractors  located  by  Affiliate  pursuant  to  Section  1.01   [CONTRACTORS] .",
+        "Affiliate,  Contractors  located by the Affiliate, or arising from transactions,",
+        "Affiliate shall at all times act as an independent  contractor with respect"
+      ],
+      "top_scores": [
+        23.50556182861328,
+        23.40555763244629,
+        22.77874755859375,
+        21.346569061279297,
+        21.080617904663086
+      ],
+      "best_chunk": "Contractor  located  by  Affiliate  in  compiling  or  providing any information",
+      "best_score": 23.50556182861328,
+      "context_match": true,
+      "first_match_rank": 2
+    },
+    {
+      "question": "Who bears losses arising from Affiliate or its Contractors\u2019 acts or omissions?",
+      "context_chunk": "3.03 LOSSES. All losses or charges arising from acts or omissions of the Affiliate, Contractors\u2026 shall be borne as set out in Exhibit C.",
+      "top_chunks": [
+        "Affiliate shall at all times act as an independent  contractor with respect",
+        "Affiliate,  Contractors  located by the Affiliate, or arising from transactions,",
+        "Affiliate  pursuant  to  Section  1.01   [CONTRACTORS] .  All individuals identified by Affiliate",
+        "Affiliate  or  Contractors  located  by  Affiliate  pursuant  to  Section  1.01   [CONTRACTORS] .",
+        "3.03     LOSSES.  All  losses  or  charges arising from acts or omissions of the"
+      ],
+      "top_scores": [
+        22.756664276123047,
+        21.13023567199707,
+        20.196443557739258,
+        19.91318130493164,
+        19.172239303588867
+      ],
+      "best_chunk": "Affiliate shall at all times act as an independent  contractor with respect",
+      "best_score": 22.756664276123047,
+      "context_match": true,
+      "first_match_rank": 5
+    }
+  ]
+}
